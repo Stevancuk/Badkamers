@@ -1,0 +1,317 @@
+/*@font-face {
+	font-family: 'HKGrotesk-Italic';
+	src: local('HKGrotesk-Italic'), local('HKGrotesk-Italic'), url('../fonts/HKGrotesk-Italic.otf') format('truetype');
+}*/
+div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+	font-weight: 600;
+	overflow-x: hidden;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ol, ul {
+	list-style: none;
+}
+ blockquote, q {
+	quotes: none;
+}
+img {
+	margin: 0px;
+	padding: 0px;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+* {
+	box-sizing: border-box;
+}
+
+/* Basic tag styling */
+b {
+	font-weight: 800;
+}
+h1 {
+	font-size: 34px;
+	font-weight: 600;
+	text-align: center;
+	margin:0px;
+}
+h2 {
+	font-size: 26px;
+	font-weight: 600;
+	text-align: center;
+	margin:0px;
+}
+h3 {
+	font-size: 22px;
+}
+p {
+	text-align: left;
+	margin: 0px;
+	font-size: 14px;
+	font-weight: 500;
+}
+h5 {
+	font-size: 20px;
+}
+h6 {
+	font-size:16px;
+	text-align: left;
+	line-height: 16px;
+	font-weight: 500;
+}
+select {
+	font-size: 20px!important;
+}
+label {
+	font-size: 16px!important;
+}
+button {
+	font-size: 22px!important;
+}
+button:focus { outline: none;}
+
+input:focus { outline: none;}
+
+textarea:focus { outline: none;}
+
+
+
+		/*COLORS*/
+
+.colBlack {
+	color: #000;
+}
+.backColBlack {
+	background-color: #000;
+}
+.colWhite {
+	color: #fff;
+}
+.backColWhite {
+	background-color: #fff;
+}
+.backColBlackOpacity {
+	background-color: rgb(0,0,0,.5);
+}
+.backColGray {
+	background-color:#595959;
+}
+.borderWhite {
+	border: 2px solid #fff;
+}
+.colPink {
+	color: #ed458b;
+}
+.borderCream {
+	border: 14px solid #f3efe0;
+}
+.borderForInputs {
+	border:1px solid #595959;
+}
+.borderRadius {
+	border-radius: 12px;
+}
+
+        /*MAIN CLASSES*/
+
+.vertically-align-mid {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+		/*NAVBAR  */
+
+#navbarNavAltMarkup a {
+	font-size: 22px;
+}
+.logoBradA {
+	width: 300px;
+}
+.logoBradA img {
+	width: 100%;
+}
+
+		/*MAIN SECTIONS*/
+
+.backGroundImages {
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+.backGroundImages img {
+	width: 100%;
+}
+.overLayerOpacity {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 64%;
+	width: 100%;
+	z-index: 9;
+}
+.overLayerOpacity2 {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 36%;
+	width: 100%;
+	z-index:9;
+}
+.overLayerOpacity3 {
+	position: absolute;
+	top: 0px;
+	left: 5%;
+	height: 124px;
+	width: 90%;
+	z-index:19;
+}
+.overLayerOpacity4 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 56%;
+	width: 100%;
+	z-index: 9;
+}
+.overLayerOpacity2 {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 44%;
+	width: 100%;
+	z-index:9;
+}
+.posRel {
+	position: relative;
+}
+.posAbs {
+	position: absolute;
+}
+.imageGrid {
+	width: 90%;
+}
+.sqarewWindowsMain {
+	margin-top: -14px;
+}
+.headerText {
+	position: absolute;
+	top: 36%;
+	right: 14%;
+	width: 600px;
+}
+.sendIcon {
+	width: 44px;
+	top:6px;
+	right: 20px;
+}
+.commentIcon {
+	width: 70px;
+}
+.commentIcon img {
+	width: 100%;
+}
+.sliderTextAndComment {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 999;
+}
+.knowingMore {
+	width:160px; 
+}
+.midIcons {
+	width: 160px;
+}
+.midIcons img {
+	width: 100%;
+}
+.boxShadow {
+	-webkit-box-shadow: 0px 0px 27px 0px rgba(140,140,140,0.84);
+	-moz-box-shadow: 0px 0px 27px 0px rgba(140,140,140,0.84);
+	box-shadow: 0px 0px 27px 0px rgba(140,140,140,0.84);
+}
+.brandLogos {
+	margin-bottom: -40px;
+}
+.contactUsMainSection {
+	width: 80%;
+}
+.footerRow {
+	width: 80%;
+}
+.logoFooter {
+	width: 300px;
+}
+.logoFooter img {
+	width: 100%;
+}
+.sqarewWindowsCustom {
+	width:440px; 
+}
+.sqarewWindowsCustom img {
+	width:100%; 
+}
+.boxShadowMargin {
+	margin-top: -22px;
+}
+.whiteSectionMargin {
+	margin-top: -90px;
+}
+.whiteSectionMargin2 {
+	margin-top: -40px;
+}
+.plusIcon {
+	width:24px;
+	height: 24px;
+}
+.plusIcon img {
+	width:100%; 
+}
+.iconEmail {
+	width: 70px;
+}
+.iconEmail img {
+	width: 100%;
+}
+
+
+
+
+
+
+@media (max-width: 1240px) {
+	#navbarNavAltMarkup a {
+	font-size: 18px;
+	}
+}		    
