@@ -138,7 +138,7 @@ textarea:focus { outline: none;}
 	color: #ed458b;
 }
 .borderCream {
-	border: 14px solid #f3efe0;
+	border: 16px solid #f3efe0;
 }
 .borderForInputs {
 	border:1px solid #595959;
@@ -157,6 +157,12 @@ textarea:focus { outline: none;}
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+.h3Main {
+	width:90%; 
+}
+.h3SmallerBad3 {
+	width: 86%;
 }
 
 		/*NAVBAR  */
@@ -239,6 +245,26 @@ textarea:focus { outline: none;}
 .imageOptionsMain {
 	width: 460px;
 }
+.imageOptionsMain h2 {
+	padding-top: 6px;
+}
+.imageOptionsMain1 {
+	width: 900px;
+}
+.imageOptionsMain2 {
+	width: 370px;
+}
+.imageOptionsMain2 h2 {
+	font-size: 20px;
+	line-height: 22px;
+	height: 44px;
+	width: 90%;
+	margin:0px auto;
+	padding-top: 10px;
+}
+.imageOptionsMain2 .knowingMore {
+	margin-top: 20px;
+}
 div.caruselInnerMain {
       width:100%;
       height:600px;
@@ -297,7 +323,7 @@ div.caruselInnerMain {
 	cursor: pointer; 
 }
 .midIcons {
-	width: 160px;
+	width: 180px;
 }
 .midIcons img {
 	width: 100%;
@@ -358,6 +384,111 @@ div.caruselInnerMain {
 	height: 6px;
 	border-radius: 50%;
 }
+.imgBrandLogos {
+	width: 380px;
+}
+.imgBrandLogos img {
+	width: 100%;
+}
+.mainBrandLogos {
+	width: 64%;
+}
+.bathPage1SmallImg {
+	margin-top: -40px;
+}
+.bathPage1SmallImg img {
+	width: 100%;
+}
+.bathPage1BigImgSection {
+	margin-bottom:40px; 
+}
+.bathPage1BigImg img {
+	width: 100%;
+}
+.bathPage1BigImg h1 {
+	margin-top: 30px;
+}
+.bathPage1BigImg .overLayerOpacity3 {
+	height: auto;
+}
+.arrowUpBigImg {
+	width: 100px;
+	cursor: pointer;
+}
+.arrowDownBigImg {
+	width: 100px;
+	cursor: pointer;
+}
+.bathTextBigImage {
+	margin-top: 100px;
+	width: 90%; 
+}
+
+.bathroomWalkInShoweSection1 {
+	height: 600px;
+	background: url(../images/walkinshower.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomWalkInShoweSection2 {
+	height: 600px;
+	background: url(../images/bathroomfurniture3.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomWalkInShoweSection3 {
+	height: 860px;
+	background: url(../images/chooseatap.jpg) no-repeat top center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomWalkInShoweSection4 {
+	height: 820px;
+	background: url(../images/bathinshowerout.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomWalkInShoweSection5 {
+	height: 560px;
+	background: url(../images/theshowerfloor2.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomWalkInShoweSection6 {
+	height: 560px;
+	background: url(../images/washbasintowashyourself.jpg) no-repeat top center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
