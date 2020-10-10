@@ -709,6 +709,78 @@ div.caruselInnerMain {
   	background-size: cover;
   	background-color: rgb(0,0,0,.3);
 }
+.showersSection1 {
+	height: 600px;
+	background: url(../images/showerenclosure3.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.showersSection2 {
+	height: 600px;
+	background: url(../images/walkinshower.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.showersSection3 {
+	height: 600px;
+	background: url(../images/showercabin3.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.showersSection4 {
+	height: 600px;
+	background: url(../images/sunshower.jpg) no-repeat top center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.washbasinsSection1 {
+	height: 600px;
+	background: url(../images/washbowl3.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.washbasinsSection2 {
+	height: 700px;
+	background: url(../images/doublesink3.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.washbasinsSection3 {
+	height: 660px;
+	background: url(../images/washbasintop2.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.washbasinsSection4 {
+	height: 600px;
+	background: url(../images/washbasinfurniture2.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
 
 
 
