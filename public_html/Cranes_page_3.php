@@ -20,7 +20,7 @@ require_once '../src/init.php';
 		<h3 class="mb-3 text-center h3Main mx-auto"><b>Douchesysteem</b>. Een compleet systeem dat uit één geheel bestaat met douchekraan, knoppen en een of meer (kantelbare) douchekoppen op een stang aan de wand. Je hebt keuze uit douchekoppen in allerlei vormen en formaten met soms wel zes verschillende waterstralen.</h3>
 		<h3 class="mb-3 text-center h3Main mx-auto"><b>Douchepaneel</b>. De thermostaatkraan en de bedieningsknoppen zijn in deze optie fraai weggewerkt. Eventuele oude aansluitingen vallen mooi weg achter het brede paneel.</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto"><b>Inbouwdouche</b>. Een geïntegreerde constructie waarbij alleen de essentiële delen van de douche zichtbaar zijn: thermostaatkraan en douchekop (en slang). Een mooie designoptie wanneer je je badkamer volledig gaat verbouwen.</h3>
-		<div class="cranesSection3">
+		<div class="cranesSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Cranes3.svg">

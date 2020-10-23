@@ -22,7 +22,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Met één grote douchewand creëer je een inloopdouche. Zet de wand tegen de muur of los in de ruimte.</h3>
 		<h1 class="text-center mb-5">Zijwanden</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Dit zijn smallere wanden die bijvoorbeeld worden gebruikt om een inloopdouche (deels) af te sluiten. Ook hier kun je kiezen voor een draaibare zijwand zodat je de zijwand open kunt zetten.</h3>
-		<div class="showersSection1">
+		<div class="showersSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Showers2.svg">

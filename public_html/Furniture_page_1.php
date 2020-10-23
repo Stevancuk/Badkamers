@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Voor de onderkast van je wastafel kun je alle kanten op. Je kunt ervoor kiezen om geen onderkast onder de wastafel te nemen. Helaas wijst de praktijk vaak uit dat in een mum van tijd toiletartikelen en handdoeken door de badkamer zwerven. Vaak kiezen mensen daarom wel voor een onderkast. Een goede onderkast van een wastafel is dus met name functioneel. Dat neemt niet weg dat hij stijlvol moet zijn en moet passen bij de rest van de badkamer. De belangrijkste zaken waar je op moet letten bij het kopen van een onderkast hebben we voor je op rij gezet.</h3>
 		<h1 class="text-center mb-5">Materialen & kleuren</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De stijl van de badkamer wordt grotendeels bepaald door het badkamermeubel. Het is dus belangrijk dat de onderkast bij de wastafel past. Hou je van natuurlijke materialen? Dan is hout wellicht een goede keuze. Hierbij passen ook rustige kleuren zoals wit, grijs en zwart. Onderkasten in fellere kleuren of in hoogglans zijn geschikter voor wie een meer gewaagde of modernere stijl wil in zijn badkamer. Daarnaast kun je allerlei combinaties maken. Denk bijvoorbeeld aan kunststof met hout of wissel een glanzende afwerking af  met een matte afwerking. </h3>
-		<div class="furintureSection1">
+		<div class="furintureSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroomfurinturepages(4)icon1.svg">

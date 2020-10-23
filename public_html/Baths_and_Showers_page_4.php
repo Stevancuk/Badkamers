@@ -20,7 +20,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Wil jij ook baden in weldaad? Bij badinstallaties vind je whirlpools in verschillende uitvoeringen en prijsklassen. Een whirlpool is duurder in aanschaf dan een gewoon ligbad en vraagt om wat meer onderhoud. Je moet het systeem bijvoorbeeld regelmatig reinigen. Als je geïnteresseerd bent in een whirlpool, bedenk dan of je kiest voor ontspannende bubbels, krachtige massagestralen of een combinatie van beide. Je hebt namelijk de keuze uit drie soorten whirlpools, elk uitgerust met een ander systeem:</h3>
 		<h1 class="text-center mb-5">Whirlpool met Hydro systeem</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een whirlpool met Hydro systeem zuigt water uit het bad om het daarna onder hoge druk terug te spuiten via de jets. Met krachtige massagestralen als resultaat. Ideaal als je vaak last hebt van spierpijn, gevoelige gewrichten of problemen met je bloedsomloop. Let ook goed op de positie van de jets in de whirlpool. Is massage van je onderrug het belangrijkst? Kijk dan of de massagestralen uit de jets juist die plek van je lichaam bereiken. Extra handig: bij sommige whirlpools zijn de jets verstelbaar.</h3>
-		<div class="bathsandshowersSection4">
+		<div class="bathsandshowersSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathsandShowers4.svg">

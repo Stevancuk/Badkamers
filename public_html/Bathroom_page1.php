@@ -21,7 +21,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/23.png">
+					<img class="zoomOnHover" src="images/23.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -30,7 +30,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/22.png">
+					<img class="zoomOnHover" src="images/22.png">
 				</div>
 			</div>
 		</div>
@@ -105,7 +105,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Bij het ontwerpen van een nieuwe badkamer komen meer dingen kijken dan je in eerste instantie denkt. Daarom is het belangrijk om allereerst duidelijk te hebben welke mogelijkheden jouw ruimte biedt en hoe je deze het beste kunt indelen. Door meerdere ontwerpen te maken voor de badkamer kun je de mogelijkheden vergelijken en op basis daarvan besluiten welk ontwerp het beste past. Vervolgens kun je verdergaan naar de volgende stappen, zoals het bepalen van de wand en vloer, het kiezen van de juiste badkamermeubels en eventueel accessoires toevoegen.</h3>
 		<h1 class="text-center mb-5">Badkamer met bad</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een bad in je badkamer zorgt voor extra luxe en ontspanning. Naast het welbekende bad tegen de muur, zijn er nog allerlei soorten badkuipen. Denk hierbij aan een vrijstaand bad voor als je veel ruimte hebt in je badkamer of een douche en bad in één mocht je wat minder ruimte hebben en toch willen genieten van een bad.</h3>
-		<div class="bathroomWalkInShoweSection1">
+		<div class="bathroomWalkInShoweSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto mt-3">
 					<img src="images/Bathroom(dropmenu)of6pagesicon1.svg">

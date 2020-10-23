@@ -27,7 +27,7 @@ require_once '../src/init.php';
 			</div>	
 		</div>	
 	</div>
-	<div class="inspirationSection1">
+	<div class="inspirationSection1 backgroundPar">
 		<div class="vertically-align-mid">
 			<div class="ml-auto h1h3Step1">
 				<h1 class="text-right mr-5 mb-4 marTopForStep2 colWhite">Stap 2: Ttijd om praktisch na te denken</h1>

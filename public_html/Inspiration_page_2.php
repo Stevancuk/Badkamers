@@ -19,7 +19,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Dan zit u hier goed. Op deze pagina willen we het namelijk met u hebben over al het bovenstaande. Over de gouden combinatie van ontspanning, persoonlijke hygiëne en de moderne stijl. Kortom, op deze pagina maakt u kennis met de moderne badkamer.</h3>
 		<h1 class="text-center mb-5">De stijl van de moderne badkamer</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Wie houdt van de moderne stijl, houdt van strakke lijnen en ruimtelijkheid. Kenmerkend aan de moderne badkamer is meubilair met rechte hoeken, maar ook ovale vormen mogen gezien worden. Onmisbaar is de inloopdouche zonder onderbroken vloer, een grote glazen douchewand, een vrijstaand bad en chromen kranen. We zien grote keramische tegels met voegen in een aansluitende kleur, maar ook de giet- of betonvloer wordt graag gezien. Qua kleurgebruik kan evengoed voor wit en zacht gekozen worden als voor donker en felgekleurd. Wie gaat voor de moderne badkamer, zal merken: de mogelijkheden zijn eindeloos. Daarom helpen wij u bij het verwezenlijken van uw badkamerdromen.</h3>
-		<div class="inspirationSection2">
+		<div class="inspirationSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathroomInspirationpageicon1.svg">

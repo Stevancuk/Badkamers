@@ -14,7 +14,7 @@ require_once '../src/init.php';
 		<img src="images/Badkamerslandingpage.png">
 		<div class="headerText backColBlackOpacity">
 			<h3 class="colWhite text-left ml-4 mt-3">Plannen voor badkamer renovatie? De specialisten van badinstallaties regelen alles voor u. Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor.</h3>
-			<div class="borderWhite knowingMore my-3 ml-4"><h3 class="colWhite py-1 text-center">Meer weten</h3></div>
+			<div class="borderWhite knowingMore my-3 ml-4"><h3 class="colWhite py-1 text-center"><a class="colWhite" href="renovatie.php">Meer weten</a></h3></div>
 		</div>
 	</div>
 	<div class="backGroundImages">
@@ -30,19 +30,19 @@ require_once '../src/init.php';
 					<div class="posRel imageOptionsMain px-0">
 						<div class="overLayerOpacity3 backColBlackOpacity">
 							<h2 class="text-center colWhite my-2">MODERNE BADKAMERS</h2>
-							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_2.php">Meer weten</a></h3></div>
 						</div>
-						<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-							<img src="images/1.png">
+						<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+							<img class="zoomOnHover" src="images/1.png">
 						</div>
 					</div>
 					<div class="posRel imageOptionsMain px-0">
 						<div class="overLayerOpacity3 backColBlackOpacity">
 							<h2 class="text-center colWhite my-2">KLASSIEKE BADKAMERS</h2>
-							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_3.php">Meer weten</a></h3></div>
 						</div>
-						<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-							<img src="images/2.png">
+						<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+							<img class="zoomOnHover" src="images/2.png">
 						</div>
 					</div>
 				</div>
@@ -50,19 +50,19 @@ require_once '../src/init.php';
 					<div class="posRel imageOptionsMain px-0">
 						<div class="overLayerOpacity3 backColBlackOpacity">
 							<h2 class="text-center colWhite my-2">LUXE BADKAMERS</h2>
-							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_4.php">Meer weten</a></h3></div>
 						</div>
 						<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-							<img src="images/3.png">
+							<img class="zoomOnHover" src="images/3.png">
 						</div>
 					</div>
 					<div class="posRel imageOptionsMain px-0">
 						<div class="overLayerOpacity3 backColBlackOpacity">
 							<h2 class="text-center colWhite my-2">LENDELIJKE BADKAMERS</h2>
-							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+							<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_5.php">Meer weten</a></h3></div>
 						</div>
 						<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-							<img src="images/4.png">
+							<img class="zoomOnHover" src="images/4.png">
 						</div>
 					</div>
 				</div>
@@ -179,7 +179,7 @@ require_once '../src/init.php';
 			<h1 class="mx-auto colWhite">Toekomst bestendige badkamer</h1>
 			<h3 class="mx-auto colWhite h3Main text-center">De laatste jaren wordt er steeds meer van de Nederlander verwacht zelfredzaam te zijn en te blijven. Dit betekent  dat u nu of in de toekomst  langer in uw eigen woning moet blijven wonen. De kleine dingen die nu nog gemakkelijk gaan, zullen  lastiger of soms zelfs onmogelijk worden zullen als u op leeftijd begint te.</h3>
 			<div class="knowingMore borderWhite mx-auto mt-5">
-				<h3 class="colWhite text-center py-1">Meer weten</h3>
+				<h3 class="colWhite text-center py-1"><a class="colWhite" href="#">Meer weten</a></h3>
 			</div>
 		</div>
 		<div class="overLayerOpacity2 backColWhite boxShadow">

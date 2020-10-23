@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Je ziet het veel in films en hotels: de en-suite badkamer. Een badkamer helemaal voor jezelf alleen, waar je zo vanuit je slaapkamer in stapt. Voor velen is het een droom om een eigen en-suite badkamer te bezitten. Eentje die heel eenvoudig te realiseren is, wanneer je extra ruimte aansluitend aan de slaapkamer hebt. Bijvoorbeeld op zolder of in het souterrain. En er een wateraansluiting is of gemaakt kan worden om vervolgens de en-suite badkamer helemaal in jouw stijl inrichten.</h3>
 		<h1 class="text-center mb-5">Puur genieten</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">In een en-suite badkamer kun je echt helemaal tot rust komen. Je kunt immers baden of douchen tussen je eigen spulletjes en je kunt lekker naar je eigen muziek luisteren. Bovendien kun je zo vanuit je bed onder de douche springen of in bad wegzakken. En dat maakt de en-suite badkamers nu juist zo populair.</h3>
-		<div class="bathroomLayoutSection2">
+		<div class="bathroomLayoutSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroomslayoutpages(2)icon2.svg">

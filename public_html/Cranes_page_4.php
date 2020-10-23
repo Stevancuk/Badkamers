@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een wastafelkraan met hoge uitloop wordt gekenmerkt door een hoge rechte of gebogen uitloop waardoor het water in een lange straal uit de kraan komt. Het geeft direct een bijzondere uitstraling aan je badkamer en is daarnaast ook erg praktisch. Een wastafelkraan met hoge uitloop combineert dan ook functionaliteit met een bijzondere uitstraling: een combinatie waar het tegenwoordig vaak om draait.</h3>
 		<h1 class="text-center mb-5">Functionaliteit</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Wanneer je kiest voor een wastafelkraan met hoge uitloop kies je voor meer bewegingsvrijheid en comfort in je badkamer. Door de langere straal heb je meer ruimte om bijvoorbeeld je handen te wassen of wat water uit de kraan te drinken. Ook wanneer je geregeld je haren onder de wastafelkraan wast of tijdens het poetsen een emmertje sop wilt vullen, is dit type kraan erg praktisch en comfortabel. Gebruik je de wastafel in je badkamer voornamelijk voor kleine handelingen als  tandenpoetsen en het wassen van je gezicht? Dan voldoet een wastafelkraan met lage uitloop vaak aan je wensen.</h3>
-		<div class="cranesSection4">
+		<div class="cranesSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Cranes4.svg">

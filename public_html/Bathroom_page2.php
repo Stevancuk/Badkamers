@@ -10,7 +10,7 @@ require_once '../src/init.php';
 
 	<?php getNavigationBar(); ?>
 
-	<div class="backGroundImages">
+	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Bathroom(drop-menu)of6pagesheader2.png">
 	</div>
 	<div class="backColWhite bathPage1SmallImg">
@@ -21,7 +21,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/21.png">
+					<img class="zoomOnHover" src="images/21.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -30,7 +30,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/20.png">
+					<img class="zoomOnHover" src="images/20.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -39,7 +39,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/19.png">
+					<img class="zoomOnHover" src="images/19.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -48,7 +48,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/18.png">
+					<img class="zoomOnHover" src="images/18.png">
 				</div>
 			</div>
 		</div>
@@ -58,7 +58,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Je bad staat, de douche is geïnstalleerd, er vloeit water uit de kraan, het toilet is goed aangelegd… tijd om van je badkamer te gaan genieten. Of niet? Een badkamer is pas echt af wanneer ook alle badkamermeubels zijn uitgezocht. De juiste badkamermeubels brengen niet alleen harmonie, het is ook de perfecte manier om je handdoeken, douchegel, scheerschuim en andere toiletspulletjes in op te bergen. Bij badinstallaties vind je heel veel mooie, moderne, klassieke, basic en landelijke badkamermeubels die je badkamer helemaal afmaken.</h3>
 		<h1 class="text-center mb-5">Verschillende soorten badkamermeubels</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een badkamermeubel is meer dan een gewone kast voor het opbergen van toiletaccessoires. Het is een onderdeel van de sfeer in je badkamer. Daarom is het belangrijk om een badkamermeubel uit te kiezen die past bij jouw smaak en wensen. Kies altijd een badkamermeubel die perfect aansluit bij de kleuren en de sfeer van je badkamer. Om je te helpen hebben wij al verschillende badkamermeubels voor je opgebouwd in onze showroom. Kom eens langs en zoek het perfecte meubel voor jouw badkamer.</h3>
-		<div class="bathroomWalkInShoweSection2">
+		<div class="bathroomWalkInShoweSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroom(drop menu)of6pagesicon2.svg">

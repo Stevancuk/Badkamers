@@ -16,7 +16,7 @@ require_once '../src/init.php';
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Douchebad “een douche en bad in één”</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een douchebad is de ideale oplossing wanneer de ruimte in je badkamer beperkt is, maar je niet kunt kiezen tussen een douche en bad. Zo is een douche heerlijk om ’s ochtends mee wakker te worden, maar is een bad op zijn tijd ook onmisbaar wanneer je even helemaal tot rust wil komen. Een douchebad maakt het mogelijk om in een kleine ruimte toch van beiden te kunnen genieten. Met een douche en bad in één bespaar je ruimte en geef je ieder gezinslid de mogelijkheid om te kiezen. De ergonomische uitvoeringen zorgen dat je er qua comfort niet op achteruitgaat en alleen profiteert van alle voordelen van deze combinatie.</h3>
-		<div class="bathsandshowersSection2">
+		<div class="bathsandshowersSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathsandShowers1.svg">

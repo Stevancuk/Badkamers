@@ -21,7 +21,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/40.png">
+					<img class="zoomOnHover" src="images/40.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain2 px-0">
@@ -30,7 +30,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/41.png">
+					<img class="zoomOnHover" src="images/41.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain2 px-0">
@@ -39,7 +39,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/42.png">
+					<img class="zoomOnHover" src="images/42.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain2 px-0">
@@ -48,7 +48,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/43.png">
+					<img class="zoomOnHover" src="images/43.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain2 px-0">
@@ -57,7 +57,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/44.png">
+					<img class="zoomOnHover" src="images/44.png">
 				</div>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ require_once '../src/init.php';
 		<h3 class="mb-4 text-left h3SmallerBad3 mx-auto"><b>Eengreeps kraan of mengkraan.</b> Met een Eengreeps kraan tap je zowel warm als koud water met één hendel. Mengkranen bedien je met twee knoppen, een voor warm en een voor koud water.</h3>
 		<h3 class="mb-4 text-left h3SmallerBad3 mx-auto"><b>Hoge of lage uitloop.</b> Een kraan met een hoge uitloop leidt de waterstraal in een langere boog of hoek naar beneden. Hierbij heb je meer bewegingsvrijheid onder de kraan dan bij een lage uitloop. Handig bij het uitspoelen van je haar bijvoorbeeld.</h3>
 		<h3 class="mb-4 text-left h3SmallerBad3 mx-auto"><b>Kraan met watervaluitloop.</b> In zwembaden en spa’s al langer gemeengoed. Maar nu ervaar je de masserende kracht van een waterval ook in je eigen bad of wasbak.</h3>
-		<div class="bathroomWalkInShoweSection3">
+		<div class="bathroomWalkInShoweSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroom(dropmenu)of6pgesicon3.svg">

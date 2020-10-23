@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een droom in vervulling: de luxe badkamer. Van alle gemakken en meer voorzien, uiterst comfortabel en oogstrelend mooi. Het startpunt voor een productieve dag of de afsluiter van een drukke werkweek. Wil je een grote regendouche of maak je van de badkamer een complete wellness? Het maakt niet uit of het om een grote of compacte ruimte gaat. U kiest, bij Badinstallaties regelen we het. Onze vakmensen maken een praktisch en mooi design. Leveren de beste materialen en de nieuwste producten van topmerken. Ook de installatie nemen we graag geheel voor u uit handen.</h3>
 		<h1 class="text-center mb-5">Een oase van luxe</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Modern en luxe gaan vaak hand in hand. Dat wil echter niet zeggen dat we niet een luxe, doch klassieke badkamer kunnen leveren. Van landelijk tot modern, voor elke stijl is een passend ontwerp te maken. De meeste luxe designs worden echter gekenmerkt door het gebruik van speciale materialen zoals glas en marmer. Een andere trend is het leggen van mozaïek, iets wat een betoverend effect geeft. En natuurlijk is de luxe badkamer voorzien van allerlei technische hoogstandjes en de nieuwste snufjes. Het voornaamste doel? Ontspanning! Daarom kiest men ook vaak voor luxe douches (inloopdouches en regendouches), vrijstaande baden, sauna’s, stoomcabines of whirlpools. Een greep uit de mogelijkheden:</h3>
-		<div class="inspirationSection4">
+		<div class="inspirationSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathroomInspirationpageicon3.svg">

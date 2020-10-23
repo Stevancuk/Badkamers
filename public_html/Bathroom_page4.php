@@ -21,7 +21,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/24.png">
+					<img class="zoomOnHover" src="images/24.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -30,7 +30,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/25.png">
+					<img class="zoomOnHover" src="images/25.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -39,7 +39,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/26.png">
+					<img class="zoomOnHover" src="images/26.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -48,7 +48,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/27.png">
+					<img class="zoomOnHover" src="images/27.png">
 				</div>
 			</div>
 		</div>
@@ -61,7 +61,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Douchen is een moment van rust en heerlijk ontspannen. Onder de douche wordt u niet gestoord door de telefoon of e-mail. Bij Boer Staphorst heeft u allerlei keuzes: gaat u voor het comfort van een eenvoudige douche, een tropische stortbui van een luxe regendouche of het ultieme wellness gevoel? Bij ons kan het allemaal! U heeft zelfs de mogelijkheid om uw douche volledig naar wens samen te stellen!</h3>
 		<h1 class="text-center mb-5">JEE-O douches</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De vrijstaande RVS design JEE-O douches zijn prachtig in elke badkamer. Deze eyecatchers zijn opvallend in eenvoud met een minimalistische vormgeving. Dit past precies bij de badkamertrend van nu, waarbij heldere en pure vormen centraal staan.</h3>
-		<div class="bathroomWalkInShoweSection4">
+		<div class="bathroomWalkInShoweSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroom4.svg">

@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een vrijstaand bad is dé uitkomst wanneer je je badkamer net dat beetje extra wil geven. Doordat dit bad als los element in de badkamer staat, wordt een vrijstaand bad als pronkstuk van de badkamer gezien. Qua vorm, afmeting, maar ook wat betreft stijl zijn er verschillende mogelijkheden om jouw klassieke, moderne of tijdloze badkamer te voorzien van een vrijstaand bad. Je geniet voortaan niet alleen van een ontspannen gevoel tijdens het badderen, maar wordt ook bijzonder blij van de uitstraling die dit bad met zich meebrengt.</h3>
 		<h1 class="text-center mb-5">Een vrijstaand bad: soorten, maten en stijlen</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Wil jij ook een vrijstaand bad dat geheel aan jouw wensen voldoet? Bij badinstallaties vind je ze in allerlei vormen, stijlen en afmetingen:</h3>
-		<div class="bathsandshowersSection3">
+		<div class="bathsandshowersSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathsandShowers3.svg">

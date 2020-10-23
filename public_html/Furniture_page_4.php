@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">De halfhoge badkamerkast helpt je, net als de hoge badkamerkast, om jouw badkamer netjes te houden. Het voordeel van de halfhoge badkamerkast is dat je veel opbergruimte creëert zonder veel ruimte in de badkamer te verliezen. Wil jij een einde maken aan de rondslingerende spullen zoals handdoeken en toiletartikelen? Dan is een halfhoge badkamerkast een praktische oplossing.</h3>
 		<h1 class="text-center mb-5">Opgeruimd staat netjes</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De halfhoge badkamerkast helpt jou om orde te scheppen in jouw badkamer. Zo heb je toiletartikelen zoals tandpasta en make-up altijd bij de hand zonder dat het in het zicht ligt. Hetzelfde geldt voor handdoeken en washandjes, ideaal dus! Een opgeruimde badkamer zorgt voor een ruimtelijk gevoel waardoor je heerlijk tot rust kan komen wanneer je onder de douche staat of in bad ligt.</h3>
-		<div class="furintureSection4">
+		<div class="furintureSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroomfurinturepages(4)icon4.svg">

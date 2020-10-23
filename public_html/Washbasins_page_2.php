@@ -16,7 +16,7 @@ require_once '../src/init.php';
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Voorkom file in je badkamer met een dubbele wastafel</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">In de ochtend brengen we veel tijd door in de badkamer, met name de wastafel is op dit deel van de dag erg in trek. Tandenpoetsen, haren kammen, make-up opdoen, we doen het allemaal bij de wastafel. Zeker bij gezinnen waar iedereen tegelijkertijd van huis weg moet, kan dit stress opleveren. Een dubbele wastafel is in dit soort situaties dan ook dé oplossing.</h3>
-		<div class="washbasinsSection2">
+		<div class="washbasinsSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Washbasins1.svg">

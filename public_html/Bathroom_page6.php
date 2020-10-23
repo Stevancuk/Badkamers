@@ -1,3 +1,6 @@
+<?php
+require_once '../src/init.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +10,7 @@
 
 	<?php getNavigationBar(); ?>
 
-	<div class="backGroundImages">
+	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Bathroom6.png">
 	</div>
 	<div class="backColWhite bathPage1SmallImg">
@@ -18,7 +21,7 @@
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/32.png">
+					<img class="zoomOnHover" src="images/32.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -27,7 +30,7 @@
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/33.png">
+					<img class="zoomOnHover" src="images/33.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -36,7 +39,7 @@
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/34.png">
+					<img class="zoomOnHover" src="images/34.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -45,7 +48,7 @@
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/35.png">
+					<img class="zoomOnHover" src="images/35.png">
 				</div>
 			</div>
 		</div>
@@ -53,7 +56,7 @@
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Wastafels</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Tanden poetsen, handen wassen, scheren… het gebeurt allemaal boven de wastafel in de badkamer of in het toilet. Een wastafel wordt ook wel gebruikt om je snel met een washandje op te frissen of het gezicht te wassen. En of je nu een wastafel zoekt voor de logeerkamer, het toilet of de badkamer: bij badinstallaties vind je altijd de wastafel die bij jou en je interieur past.</h3>
-		<div class="bathroomWalkInShoweSection6">
+		<div class="bathroomWalkInShoweSection6 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroom6.svg">

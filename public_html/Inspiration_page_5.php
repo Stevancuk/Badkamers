@@ -16,7 +16,7 @@ require_once '../src/init.php';
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Landelijke badkamers</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De badkamer is niet alleen een plek waar we onze persoonlijke hygiëne verzorgen. Tegenwoordig is een badkamer zo veel meer dan dat. Het is dé plek waar we na een drukke dag tot rust komen. Waar we ontspannen. Waar we volop genieten. Laat de landelijke stijl daar nu perfect bij passen. Met een warme, romantische en kalme uitstraling om volledig tot rust te komen. Van oorsprong wordt met ‘landelijk’ een landelijke omgeving bedoeld. Wonen op het platteland dus. Daar hoort natuurlijk een bepaalde sfeer bij. Rust, nostalgie en eenvoud bijvoorbeeld. Maar ook luxe en privacy zijn belangrijke kenmerken van een landelijke stijl. Een stijl die nog vaak terugkomt bij Engelse landhuizen. “Less is more” geldt daarbij. Met de keuze voor de juiste materialen, een aantal mooie (eventueel losstaande) badkamermeubels en bijpassende accessoires komt u al een heel eind.</h3>
-		<div class="inspirationSection5">
+		<div class="inspirationSection5 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathroomInspirationpageicon4.svg">

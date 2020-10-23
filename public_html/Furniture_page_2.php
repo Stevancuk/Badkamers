@@ -17,7 +17,7 @@ require_once '../src/init.php';
 		<h1 class="text-center mb-5">Push-to-open en softclose kasten</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Naast mooi en degelijk moet een badkamermeubel ook praktisch en gebruiksvriendelijk zijn. Het push-to-open en softclose systeem dragen hier dankzij hun innovatieve technieken aan bij. Al met een lichte aanraking openen de lades of kastjes van je badkamermeubel en dankzij de softclose sluiten ze geruisloos. Dankzij het push-to-open en softclose systeem profiteer je daarom van meer comfort en meer gemak in je badkamer. Wanneer je dit eenmaal gewend bent, wil je niet meer zonder.</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto">Houd jij van een moderne badkamer met een strakke inrichting? Dan zijn greep loze kasten iets voor jou. Dankzij het push-to-open systeem hoef je niet bang te zijn dat de lades lastig te openen zijn. Met slechts een klein duwtje tegen de lade opent deze automatisch. Eenvoudiger kan haast niet.</h3>
-		<div class="furintureSection2">
+		<div class="furintureSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroomfurinturepages(4)icon2.svg">

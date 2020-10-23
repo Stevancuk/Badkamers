@@ -16,7 +16,7 @@ require_once '../src/init.php';
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Een waskom: praktisch en stijlvol</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De waskom, ook wel een opbouw wastafel genoemd, is de laatste jaren erg populair in de sanitair wereld. Wanneer je niet op zoek bent naar een standaard wastafel, maar juist naar een wastafel die tevens als blikvanger dient, is een waskom de ideale oplossing. Een waskom brengt veel voordelen met zich mee en geeft je badkamer bovendien extra allure.</h3>
-		<div class="washbasinsSection1">
+		<div class="washbasinsSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Washbasins2.svg">

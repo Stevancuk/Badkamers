@@ -24,7 +24,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een (meestal glazen) wand op je badrand die je behoedt voor een kletsnatte vloer. Je kunt kiezen uit diverse typen en stijlen. Populair is een strakke, gladde badrand met zo min mogelijk profiel.</h3>
 		<h1 class="text-center mb-5">Douche- en badwand in één</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Hiermee maak je eenvoudig een douchecabine in je bad. Een prima oplossing wanneer je graag doucht én baddert en geen ruimte hebt voor een losse douche.</h3>
-		<div class="showersSection3">
+		<div class="showersSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Showers3.svg">

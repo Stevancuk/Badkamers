@@ -21,7 +21,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/28.png">
+					<img class="zoomOnHover" src="images/28.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -30,7 +30,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/29.png">
+					<img class="zoomOnHover" src="images/29.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -39,7 +39,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/30.png">
+					<img class="zoomOnHover" src="images/30.png">
 				</div>
 			</div>
 			<div class="posRel imageOptionsMain px-0">
@@ -48,7 +48,7 @@ require_once '../src/init.php';
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
 				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img src="images/31.png">
+					<img class="zoomOnHover" src="images/31.png">
 				</div>
 			</div>
 		</div>
@@ -63,7 +63,7 @@ require_once '../src/init.php';
 		<h3 class="mb-4 text-center h3SmallerBad3 mx-auto"><b>Welke functionaliteiten vind je belangrijk?</b> Maak je er een echte wellness van of is een basic douche prima voor jou? Veel douchesystemen zijn voorzien van meerdere waterstralen, van een douche met verkoelende nevel tot een stevige masserende regendouche. Er zijn zelfs douches met verlichting, met een digitale kraan of een knop waarmee je met één druk van waterstraal verandert. Al die extra functies klinken natuurlijk goed, maar bedenk wel wat je echt gebruikt in je douche.</h3>
 		<h3 class="mb-4 text-center h3SmallerBad3 mx-auto"><b>Wat past bij de stijl van je badkamer?</b> Een inloopdouche maak je zo uitgesproken als je zelf wilt. Ga je voor neutraal, dan kom je meestal uit bij een wand van transparant glas, kunststof of matglas. Maar een douche met bewerkt of getint glas kan natuurlijk ook. Douchecabines drukken wat meer een stempel. Ze zijn in diverse maten en vormen verkrijgbaar, al dan niet met gedecoreerd glas. Ook wat betreft de douchekraan kun je alle kanten op. De meeste hebben een moderne look. Maar er zijn ook nostalgische exemplaren die goed passen in een landelijke stijl. Een inbouwdouche vormt één stijlvol geheel met je badkamer. Een leuke optie als je toch gaat verbouwen.</h3>
 		<h3 class="mb-4 text-center h3SmallerBad3 mx-auto"><b>Ga je voor schoonmaakgemak?</b>  Kies dan bijvoorbeeld een douchevloer in plaats van tegels in je inloopdouche. Zo is je douche makkelijk schoon te houden door het ontbreken van voegen. Gladde en ononderbroken oppervlakken zijn eenvoudig schoon te houden; een gladde douchewand is dan ook ideaal. Je ziet er wel sneller kalkaanslag op.</h3>
-		<div class="bathroomWalkInShoweSection5">
+		<div class="bathroomWalkInShoweSection5 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroom5.svg">

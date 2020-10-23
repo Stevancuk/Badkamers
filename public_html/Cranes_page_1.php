@@ -20,7 +20,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Inbouwkranen zijn vanwege hun strakke uitstraling erg populair. Deze strakke uitstraling komt tot stand doordat het menggedeelte, ook wel de thermostaat genoemd, zich in de muur bevindt. Hierdoor is het leidingsysteem volledig weggewerkt en zijn de draaiknoppen als enige zichtbaar. Een rustige en elegante uitstraling is dan ook het resultaat.</h3>
 		<h1 class="text-center mb-5">De kenmerken van een inbouwkraan</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Om je te helpen bij de keuze voor een inbouwkraan hebben we de belangrijkste kenmerken voor je op een rij gezet:</h3>
-		<div class="cranesSection1">
+		<div class="cranesSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Cranes2.svg">

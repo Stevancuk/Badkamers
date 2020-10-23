@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een inbouwkraan geeft een elegante en luxe uitstraling aan je badkamer. Kranen zijn vaak niet het eerste waar je aan denkt bij het uitzoeken van een nieuwe badkamer, maar toch vormen ze een essentieel onderdeel voor zowel het bad, de douche als de wastafel. De eerste stap is vaak de keuze voor het soort kraan. De inbouwkraan is er hier één van. Ga jij voor een elegante look in je badkamer?</h3>
 		<h1 class="text-center mb-5">De kenmerken van een inbouwkraan</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Om je te helpen bij de keuze voor een inbouwkraan hebben we de belangrijkste kenmerken voor je op een rij gezet:</h3>
-		<div class="cranesSection2">
+		<div class="cranesSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Cranes1.svg">

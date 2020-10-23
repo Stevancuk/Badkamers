@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">De inloopdouche is over de jaren heen zeer populair geworden. Met een enkele wand creëer je immers al een douche in je badkamer, voorkom je waterspatten in de rest van de badkamer en behoud je toch het ruimtelijke gevoel. De inloopdouche is verkrijgbaar in allerlei verschillende vormen, maten en materialen. Kenmerkend is de losse wand, vrijstaand of vast aan de muur, en een strakke vloer. Wil je meer weten over de inloopdouche? Wij hebben wat informatie voor je op een rijtje gezet.</h3>
 		<h1 class="text-center mb-5">De douchewand: allerlei soorten en maten</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De douchewand waarmee je de inloopdouche creëert is er in allerlei verschillende soorten en maten. Je hebt de keuze uit een vrijstaande douchewand of één die je tegen de muur monteert. Daarnaast is er variatie in materialen. Wil je graag een ruimtelijk gevoel in je badkamer? Dan is een transparante glazen wand een goede keuze. Wanneer je meer privacy wilt, kun je het beste kiezen voor een matte glazen wand of stenen  (betegelde) wand. Of kies voor een deels glazen en deels stenen wand. Deze bijzondere combinatie creëert een speels effect in je badkamer.</h3>
-		<div class="showersSection2">
+		<div class="showersSection2 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Showers1.svg">

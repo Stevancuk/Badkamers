@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Met een wastafelmeubel maak je een einde aan rondslingerende deodorantbussen, shampooflessen, handdoeken en washandjes. Klinkt dat niet als muziek in de oren? Een wastafelmeubel is dé oplossing om extra bergruimte te creëren en je badkamer opgeruimd te houden. Ideaal voor gezinnen waarvan de kinderen hun badspullen ergens kwijt moeten kunnen. Bovendien geeft een mooi wastafelmeubel je badkamer een fijnere uitstraling.</h3>
 		<h1 class="text-center mb-5">Wel of geen wastafelmeubel?</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Bij het uitkiezen van een nieuwe wastafel vragen veel mensen zich af of ze wel of niet voor een wastafelmeubel moeten kiezen. Om je hierbij te helpen, hebben we een aantal aandachtspunten op een rijtje gezet:</h3>
-		<div class="washbasinsSection4">
+		<div class="washbasinsSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Washbasins4.svg">

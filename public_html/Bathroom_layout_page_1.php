@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een kleine badkamer inrichten kan nog weleens lastig zijn. Soms moet de badkamer ook nog gedeeld worden met een wasmachine. Tja, dan wordt het keuzes maken. Of toch niet? Met onze praktische tips kun je zelfs een kleine badkamer helemaal naar wens indelen. Laat je verassen door onze slimme tips om je badkamer groter te laten lijken. Onze specialisten helpen je graag om je kleine badkamer zo efficiënt mogelijk in te delen.</h3>
 		<h1 class="text-center mb-5">Benut de ruimte efficiënt</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een kleine ruimte kan groot zijn, wanneer je het gegeven oppervlakte optimaal en vooral efficiënt benut. Vaak is het zelfs mogelijk om een zitbad te nemen, gecombineerd met een douche. Deze zijn vaak dieper, maar kleiner, waardoor je eenvoudig baden en douchen kunt combineren en ook nog ruimte hebt voor een wastafel. En misschien zelfs nog wel voor een toilet!</h3>
-		<div class="bathroomLayoutSection1">
+		<div class="bathroomLayoutSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroomslayoutpages(2)icon1.svg">

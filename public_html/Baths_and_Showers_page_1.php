@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een tweepersoonsbad is ideaal om met z’n tweeën helemaal tot rust te komen. In de ochtend samen de dag doorspreken of elkaar juist na een drukke werkdag even bijpraten. Niet alleen voor wat extra tijd met je partner is een tweepersoonsbad geschikt, ook biedt het de uitgelezen kans om gezellig met je kinderen te badderen. Elk bad heeft zijn eigen stijl en vormgeving die ervoor zorgen dat je elkaar niet langer in de weg zit. Samen relaxen in je eigen tweepersoonsbad, klinkt dat niet heerlijk?</h3>
 		<h1 class="text-center mb-5">Puur genieten</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">In een en-suite badkamer kun je echt helemaal tot rust komen. Je kunt immers baden of douchen tussen je eigen spulletjes en je kunt lekker naar je eigen muziek luisteren. Bovendien kun je zo vanuit je bed onder de douche springen of in bad wegzakken. En dat maakt de en-suite badkamers nu juist zo populair.</h3>
-		<div class="bathsandshowersSection1">
+		<div class="bathsandshowersSection1 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/BathsandShowers2.svg">

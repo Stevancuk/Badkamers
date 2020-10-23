@@ -18,7 +18,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Een spiegelkast is dankzij de dubbele functie meer dan ideaal in een badkamer. Je kunt jezelf er allereerst in bewonderen en daarnaast kun je al je doucheartikelen en spullen voor persoonlijke verzorging opbergen in een spiegelkast. Ben jij de rondslingerende deodorant, make-up producten en parfumflesjes beu? Dan is een spiegelkast dé oplossing. Hiermee houd je je badkamer opgeruimd.</h3>
 		<h1 class="text-center mb-5">Een nette badkamer</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">De belangrijkste reden voor het kiezen van een spiegelkast is de opbergruimte. Met name als je op andere plekken in je badkamer weinig ruimte hebt voor kastjes is dit ideaal. Je kunt al je kleine badkamerspullen eenvoudig opbergen op een plek waar ze altijd binnen handbereik zijn. Zo geniet je keer op keer van een opgeruimde badkamer en een opgeruimd gevoel, zodat je lekker tot rust kunt komen tijdens een ontspannen bad of douche.</h3>
-		<div class="furintureSection3">
+		<div class="furintureSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
 					<img src="images/Bathroomfurinturepages(4)icon3.svg">
