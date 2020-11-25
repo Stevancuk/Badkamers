@@ -117,6 +117,9 @@ textarea:focus { outline: none;}
 .backColBlack {
 	background-color: #000;
 }
+.backColTransparent {
+	background-color: transparent;
+}
 .colWhite {
 	color: #fff;
 }
@@ -307,9 +310,30 @@ div.caruselInnerMain {
  }
 .headerText {
 	position: absolute;
-	top: 36%;
+	top: 37%;
 	right: 6%;
 	width: 800px;
+}
+.verticalWhiteLine1 {
+	position: absolute;
+	top: -170px;
+	left: -184px;
+	width: 420px;
+	height: 14px;
+	transform: rotate(90deg);
+	z-index: 999;
+}
+.verticalWhiteLine2 {
+	position: absolute;
+	top: 89px;
+	left: -10px;
+	width: 100px;
+	height:14px;
+	transform: rotate(90deg);
+	z-index: 999;
+}
+.relDivForWhiteLines {
+	position: relative;	
 }
 .sendIcon {
 	width: 44px;
@@ -791,6 +815,210 @@ div.caruselInnerMain {
   	background-size: cover;
   	background-color: rgb(0,0,0,.3);
 }
+.landingSection1 {
+	height: 700px;
+	background: url(../images/girl_with_a_book.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.landingSection2 {
+	height: 600px;
+	background: url(../images/futureProofBath.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+
+@media (max-width: 1656px) {
+	.headerText {
+	top: 44%;
+	}		
+.relDivForWhiteLines {
+	display: none;
+	}
+}
+
+@media (max-width: 1550px) {
+	#navbarNavAltMarkup a {
+	font-size: 18px;
+	}
+}
+@media (max-width: 1350px) {
+	.navbar .logoBradA {
+    width: 200px;
+    margin-left: 2rem!important;
+	}
+	.mark4 {
+		display: none;
+	}
+}
+@media (max-width: 1199px) {
+	.navbar .logoBradA {
+    width: 300px;
+    margin-left: 2rem!important;
+	}
+	.imgAndTextCarusel {
+		margin-bottom: 1rem!important;
+	}
+}
+@media (max-width: 1040px) {
+	.mark2 {
+		display: none;
+	}
+	.headerText {
+	top: 50%;
+	width: 600px;
+	}
+	.midIcons {
+		width: 140px;
+		padding-top: 1rem!important;
+	}
+	.sliderTextAndComment h1 {
+		font-size: 28px;
+	}
+	.sliderTextAndComment h2 {
+		font-size: 20px;
+	}
+	.sliderTextAndComment .commentIcon {
+		width: 50px;
+	}
+	.sliderTextAndComment  {
+		padding: 36px 0px;
+	}
+	.imgAndTextCarusel {
+		display: block!important;
+		height: 200px;
+		margin-bottom: 10px!important;
+	}
+	.imgDivCarousel {
+		margin:0 auto;
+	}
+	.namesEleCarusel {
+		margin-top: 20px;
+	}
+	.caruselInnerSub {
+		height: 420px;
+	}
+	div.caruselInnerMain  {
+		height: 420px;
+	}
+	.caruselInnerSub h3 {
+		font-size: 16px;
+	}
+
+}
+@media (max-width: 950px) {
+	.caruselInnerSub {
+		height: 500px;
+	}
+	div.caruselInnerMain  {
+		height: 500px;
+	}
+}
+@media (max-width: 880px) {
+	.sliderTextAndCommentSubb  {
+		display: block!important;
+	}
+	.sliderTextAndComment  {
+		padding-bottom: 0px;
+	}
+
+}
+@media (max-width: 870px) {
+	.mark3,
+	.mark5 {
+		display: none;
+	}
+	.headerText {
+	top: 50%;
+	width: 500px;
+	}
+	.backColBlackOpacity h1 {
+		font-size: 28px;
+	}
+	.h3Main {
+		font-size: 18px;
+	}
+}
+@media (max-width: 720px) {
+	.sliderTextAndCommentSubb {
+	padding: 0px!important;	
+	}
+	.markCarusel1 {
+		display: none;
+	}
+	.imgAndTextCarusel {
+		margin-bottom: 20px!important;
+	}
+	.caruselInnerSub {
+		height: 400px;
+	}
+	div.caruselInnerMain  {
+		height: 400px;
+	}
+	.indicatorsWidth {
+		font-size: 3em!important;
+	}
+}
+@media (max-width: 580px) {
+	.headerText {
+	top: 50%;
+	width: 400px;
+	}
+	.headerText h3 {
+	font-size:18px;
+	} 
+}
+@media (max-width: 530px) {
+	.mark1 {
+		display: none;
+	}
+	.headerText {
+	top: 54%;
+	left: 50%;
+	margin-left: -130px;
+	width: 260px;
+	}
+	.knowingMore {
+	margin: 1rem auto!important;
+	}
+}
+@media (max-width: 500px) {
+	.navbar .logoBradA {
+    width: 200px;
+    margin-left: 1rem!important;
+	}
+	.sliderTextAndComment h1 {
+		font-size: 24px;
+	}
+	.sliderTextAndComment h2 {
+		font-size: 16px;
+	}
+	.sliderTextAndComment  {
+		padding: 50px 0px;
+	}
+	.textInSlider {
+		margin: 0px 20px!important;
+	}
+}
+@media (max-width: 494px) {
+	.imgAndTextCarusel {
+		height: 240px;
+	}
+}
+@media (max-width: 450px) {
+	.sliderTextAndComment h1 {
+		font-size: 22px;
+	}
+	.landingSection1 {
+		height: 800px;
+	}
+}
 
 
 
@@ -834,9 +1062,4 @@ div.caruselInnerMain {
 
 
 
-
-@media (max-width: 1240px) {
-	#navbarNavAltMarkup a {
-	font-size: 18px;
-	}
-}		    
+		    

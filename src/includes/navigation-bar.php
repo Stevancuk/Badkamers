@@ -1,12 +1,12 @@
 
-<nav class="navbar navbar-expand-lg backColBlack mainNavbar" id="main_navbar">
+<nav class="navbar navbar-expand-xl backColBlack mainNavbar" id="main_navbar">
 	<a class="navbar-brand mr-auto logoBradA ml-5" href="#"><img src="images/LogoPNG.png"></a>
-	<button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 		<i class="fas fa-bars colWhite fa-lg"></i>
 	</button>
 	<div class="collapse navbar-collapse vertically-align-mid" id="navbarNavAltMarkup">
 
-		<ul class="navbar-nav ml-auto mr-4">
+		<ul class="navbar-nav ml-auto mr-4 vertically-align-mid">
 			<li class="nav-item active"> <a class="nav-item nav-link colWhite py-4" href="landing.php">Home</a> </li>
 			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="Inspiration_page_1.php">Installatie</a></li>
 			<li class="nav-item dropdown">

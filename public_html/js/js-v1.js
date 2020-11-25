@@ -20,6 +20,10 @@ let getBackgroundImageSize = function(el) {
     });
 };
 
+$('.carousel').carousel({
+  interval: false,
+});
+
 $( window ).resize(function() {
 	if ($('.backgroundPar').length) {
 		getBackgroundImageSize(jQuery('.backgroundPar'))
