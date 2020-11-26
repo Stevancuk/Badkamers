@@ -21,7 +21,7 @@ require_once '../src/init.php';
 			</div>
 		</div>	
 	</div>
-	<div class="landingSection1 backgroundPar">
+	<div class="landingSection1 backgroundPar d-flex">
 		<div class="backColBlackOpacity w-100 h-100">
 			<div class="midIcons mx-auto pt-5">
 				<img src="images/Cranes2.svg">
@@ -31,10 +31,10 @@ require_once '../src/init.php';
 	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Badinstallaties heeft al meer dan 12 jaar ervaring met het ontwerpen, verbouwen, en volledige nieuwbouw van badkamers en sanitaire ruimtes.</h3>
 	    </div>
 	</div>
-	<!-- <div class="overLayerOpacity2 backColWhite">
-		<div class="vertically-align-mid w-100 mx-auto sqarewWindowsMain">
-			<div class="vertically-align-mid">
-				<div class="posRel imageOptionsMain px-0">
+	<div class="backColWhite ">
+		<div class="vertically-align-mid w-100 mx-auto sqarewWindowsMain pb-5">
+			<div class="vertically-align-mid landingImageSubb1">
+				<div class="posRel imageOptionsMain landingImage1 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">MODERNE BADKAMERS</h2>
 						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_2.php">Meer weten</a></h3></div>
@@ -53,13 +53,13 @@ require_once '../src/init.php';
 					</div>
 				</div>
 			</div>
-			<div class="vertically-align-mid">
+			<div class="vertically-align-mid landingImageSubb2">
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">LUXE BADKAMERS</h2>
 						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_4.php">Meer weten</a></h3></div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/3.png">
 					</div>
 				</div>
@@ -68,13 +68,13 @@ require_once '../src/init.php';
 						<h2 class="text-center colWhite my-2">LENDELIJKE BADKAMERS</h2>
 						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Inspiration_page_5.php">Meer weten</a></h3></div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/4.png">
 					</div>
 				</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
 
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  	<ol class="carousel-indicators">
@@ -189,10 +189,10 @@ require_once '../src/init.php';
 			</div>
 		</div>
 	</div>	
-	<div class="overLayerOpacity2 backColWhite boxShadow">
-		<h1 class="colBlack text-center mt-3">Merken</h1>
+	<div class="backColWhite boxShadow">
+		<h1 class="colBlack text-center pt-4">Merken</h1>
 		<h3 class="colBlack mx-auto h3Main text-center mb-5">Onderstaande merken worden door Badinstallaties veelal gebruikt. De getoonde merken staan voor kwaliteit en duurzaam en gaan uw leven lang mee. Staat het door u gevonden merk er niet tussen, vrees niet. Wij kunnen u altijd verder helpen.</h3>
-		<div class="vertically-align-mid mx-auto justify-content-between mainBrandLogos pt-5">
+		<div class="vertically-align-mid mx-auto justify-content-between mainBrandLogos">
 			<div class="imgBrandLogos borderCream vertically-align-mid">
 				<img src="images/1.jpg">
 			</div>
@@ -204,15 +204,15 @@ require_once '../src/init.php';
 			</div>
 		</div>
 	</div>
-	<div class="row contactUsMainSection mx-auto my-5 pt-4">
-		<div class="col-6">
+	<div class="contactUsMainSection mx-auto my-5 vertically-align-mid">
+		<div class="leftContact">
 			<h1 class="colBlack text-left">Contact Us</h1>
 			<h4 class="colBlack text-left my-3">Do not hesitate to contact us in case you have questions. We will do our utmost best to answer your questions within 48 hours.</h4>
 			<form id="contact_us">
 				<input type="text" name="" class="w-100 form-control-lg borderForInputs borderRadius pl-2 mb-3" placeholder="Name">
 				<input type="email" name="" class="w-100 form-control-lg borderForInputs borderRadius pl-2 mb-3" placeholder="Email">
 				<textarea rows="5" class="w-100 borderForInputs borderRadius pl-2 mb-4"></textarea>
-				<div class="col-4 pr-0 ml-auto">
+				<div class="contactUsButton pr-0 ml-auto">
 					<button type="submit" name="" class="w-100 form-control-lg backColGray borderRadius border-0 text-left colWhite">SEND</button>
 					<div class="sendIcon posAbs">
 	  					<img src="images/ContactUsIcon.svg">
@@ -220,20 +220,17 @@ require_once '../src/init.php';
 				</div>
 			</form>
 		</div>
-		<div class="col-5 ml-auto">
-			<h3 class="colBlack mt-5 pt-2 ml-auto">Construction company</h3>
-			<h3 class="colBlack mb-4 ml-auto">123 BADKAMERS</h3>
-			<h3 class="colBlack ml-auto">Construction of Commerce: <b>72823259</b></h3>
-			<h3 class="colBlack ml-auto">VAT: <b>NL223096027B02</b></h3>
-			<div class="vertically-align-mid justify-content-start">
-				<div class="vertically-align-mid mr-4">
-					<i class="fas fa-map-marker-alt fa-2x colPink"></i>
-					<div>
-						<h3 class="colBlack mt-5 pt-2">Industriewag <b>6 11</b></h3>
-						<h3 class="colBlack mb-4"><b>2712</b> LB Zoetermeer</h3>
-					</div>
+		<div class="ml-5 rightContact">
+			<h3 class="colBlack mt-2 pt-2 ml-auto text-left">Construction company</h3>
+			<h3 class="colBlack mb-3 ml-auto text-left"><b>123 BADKAMERS</b></h3>
+			<h3 class="colBlack ml-auto text-left">Construction of Commerce: <b>72823259</b></h3>
+			<h3 class="colBlack ml-auto text-left mb-3">VAT: <b>NL223096027B02</b></h3>
+			<div class="telNumAndAdress">
+				<div class="vertically-align-mid justify-content-start mb-2">
+					<i class="fas fa-map-marker-alt fa-2x colPink text-left mr-3"></i>
+					<h3 class="colBlack mx-0 text-left">Industriewag <b>6 11 2712</b> LB Zoetermeer</h3>
 				</div>
-				<div class="vertically-align-mid">
+				<div class="vertically-align-mid justify-content-start">
 					<i class="fas fa-mobile-alt fa-lg mr-2 fa-2x"></i>
 					<h3 class="colBlack text-left"><b>+31 (0) 85-1301581</b></h3>
 				</div>

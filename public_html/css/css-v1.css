@@ -175,7 +175,6 @@ textarea:focus { outline: none;}
 	transition: transform .5s;
 }
 .zoomOnHover:hover {
-	/*cursor: pointer;*/
 	transform: scale(1.15);
 }
 		/*NAVBAR  */
@@ -257,6 +256,7 @@ textarea:focus { outline: none;}
 }
 .imageOptionsMain {
 	width: 460px;
+	margin-top: -16px;
 }
 .imageOptionsMain h2 {
 	padding-top: 6px;
@@ -371,10 +371,22 @@ div.caruselInnerMain {
 	margin-bottom: -40px;
 }
 .contactUsMainSection {
-	width: 80%;
+	width:1300px;
+	padding-top: 80px;
+}
+.contactUsButton {
+	width: 200px;
+	position: relative;
+}
+.leftContact {
+	width: 700px;
 }
 .footerRow {
 	width: 80%;
+}
+.termsPrivacyProcedures {
+	width: 120px;
+	cursor: pointer;
 }
 .logoFooter {
 	width: 300px;
@@ -420,12 +432,13 @@ div.caruselInnerMain {
 }
 .imgBrandLogos {
 	width: 380px;
+	margin-bottom: -50px;
 }
 .imgBrandLogos img {
 	width: 100%;
 }
 .mainBrandLogos {
-	width: 64%;
+	width: 1200px;
 }
 .bathPage1SmallImg {
 	margin-top: -40px;
@@ -833,6 +846,20 @@ div.caruselInnerMain {
   	background-size: cover;
   	background-color: rgb(0,0,0,.3);
 }
+@media (max-width: 1900px) {
+	.imageOptionsMain  {
+		width: 400px;
+	}
+	.imageGrid {
+		flex-wrap: wrap;
+		justify-content: center;
+		height: 100%;
+	}
+	.imageGrid img {
+		width: 100%;
+		height: auto;
+	}
+}
 
 @media (max-width: 1656px) {
 	.headerText {
@@ -840,6 +867,15 @@ div.caruselInnerMain {
 	}		
 .relDivForWhiteLines {
 	display: none;
+	}
+	.sqarewWindowsMain {
+		display: block!important;
+	}
+	.imageOptionsMain  {
+		width: 460px;
+	}
+	.landingImageSubb1 {
+		padding-bottom: 40px;
 	}
 }
 
@@ -856,6 +892,21 @@ div.caruselInnerMain {
 	.mark4 {
 		display: none;
 	}
+	.imgBrandLogos {
+    width: 320px;
+	}
+	.mainBrandLogos {
+    width: 1040px;
+	}
+	.contactUsMainSection {
+    width: 1120px;
+	}
+	.rightContact {
+	margin-left: 30px!important;
+	}
+	.leftContact {
+    width: 500px;
+	}
 }
 @media (max-width: 1199px) {
 	.navbar .logoBradA {
@@ -864,6 +915,27 @@ div.caruselInnerMain {
 	}
 	.imgAndTextCarusel {
 		margin-bottom: 1rem!important;
+	}
+	.imgBrandLogos {
+    width: 260px;
+	}
+	.mainBrandLogos {
+    width: 860px;
+	}
+	.contactUsMainSection {
+    width: 100%;
+    display: block!important;
+	}
+	.rightContact {
+	margin-left: 30px!important;
+	}
+	.leftContact {
+    margin: 20px auto;
+    width: 700px;
+	}
+	.rightContact {
+	width: 700px;
+    margin: 20px auto!important;
 	}
 }
 @media (max-width: 1040px) {
@@ -910,7 +982,38 @@ div.caruselInnerMain {
 	.caruselInnerSub h3 {
 		font-size: 16px;
 	}
-
+	.footerRow {
+		width: 100%;
+		display: block!important;
+	}
+	.rightFooter {
+		width: 500px;
+		margin: 0 auto;
+		text-align: center!important;
+	}
+	.rightFooter h3 {
+		text-align: center!important;
+	}
+	.leftFooter {
+		width: 500px;
+		margin: 0 auto;
+	}
+	.logoFooter {
+		margin: 0 auto;
+	}
+	.termsPrivacyProcedures {
+		flex-grow: 1!important;
+		margin: 0px!important;
+		width: auto;
+		text-align: center!important;
+	}
+	.termsPrivacyProcedures h3 {
+		text-align: center!important;
+	}
+	.footerText {
+		font-size: 18px!important;
+		width: 80%!important;
+	}
 }
 @media (max-width: 950px) {
 	.caruselInnerSub {
@@ -919,6 +1022,25 @@ div.caruselInnerMain {
 	div.caruselInnerMain  {
 		height: 500px;
 	}
+	.imgBrandLogos {
+    width: 380px;
+    margin: 20px auto;
+	}
+	.mainBrandLogos {
+    width: 100%;
+    margin: 0 auto;
+    display: block!important;
+    padding-bottom: 40px;
+	}
+	.contactUsMainSection {
+    padding-top: 20px;
+	}
+	.imageOptionsMain  {
+		width: 500px;
+	}
+	.imageOptionsMain  {
+		width: 400px;
+	}
 }
 @media (max-width: 880px) {
 	.sliderTextAndCommentSubb  {
@@ -926,6 +1048,20 @@ div.caruselInnerMain {
 	}
 	.sliderTextAndComment  {
 		padding-bottom: 0px;
+	}
+	.landingImageSubb1 {
+	display: block!important;
+	padding-bottom: 0px;
+	}
+	.landingImageSubb2 {
+	display: block!important;
+	}
+	.imageOptionsMain  {
+		width: 460px;
+		margin:-0px  auto 20px auto;
+	}
+	.landingImage1 {
+		margin-top: 40px;
 	}
 
 }
@@ -943,6 +1079,12 @@ div.caruselInnerMain {
 	}
 	.h3Main {
 		font-size: 18px;
+	}
+	.leftContact {
+    width: 500px;
+	}
+	.rightContact {
+	width: 500px;
 	}
 }
 @media (max-width: 720px) {
@@ -972,7 +1114,19 @@ div.caruselInnerMain {
 	}
 	.headerText h3 {
 	font-size:18px;
-	} 
+	}
+	.leftContact {
+    width: 400px;
+	}
+	.rightContact {
+	width: 400px;
+	}
+	.rightFooter {
+		width: 320px;
+	}
+	.leftFooter {
+		width: 320px;
+	}
 }
 @media (max-width: 530px) {
 	.mark1 {
@@ -986,6 +1140,15 @@ div.caruselInnerMain {
 	}
 	.knowingMore {
 	margin: 1rem auto!important;
+	}
+	.imgBrandLogos {
+    width: 320px;
+	}
+	.leftContact {
+    width: 300px;
+	}
+	.rightContact {
+	width: 300px;
 	}
 }
 @media (max-width: 500px) {
@@ -1005,6 +1168,13 @@ div.caruselInnerMain {
 	.textInSlider {
 		margin: 0px 20px!important;
 	}
+	.imageOptionsMain  {
+		width: 320px;
+	}
+	.imageOptionsMain h2 {
+		font-size: 20px;
+	}
+
 }
 @media (max-width: 494px) {
 	.imgAndTextCarusel {
