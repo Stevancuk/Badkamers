@@ -8,9 +8,9 @@
 
 		<ul class="navbar-nav ml-auto mr-4 vertically-align-mid">
 			<li class="nav-item active"> <a class="nav-item nav-link colWhite py-4" href="landing.php">Home</a> </li>
-			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="Inspiration_page_1.php">Installatie</a></li>
+			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="installation.php">Installatie</a></li>
 			<li class="nav-item dropdown">
-				<a class="nav-item nav-link colWhite py-4 dropdown-toggle" href="#" id="nav_drop_down_1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Badkamer inspiratie</a>	
+				<a class="nav-item nav-link colWhite py-4 dropdown-toggle" id="nav_drop_down_1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="Inspiration_page_1.php">Badkamer inspiratie</a>	
 				<ul class="dropdown-menu backColBlack" aria-labelledby="nav_drop_down_1">
 					<li><a class="dropdown-item colWhite" href="Inspiration_page_3.php">Klassieke badkamer</a></li>
 					<li><a class="dropdown-item colWhite" href="Inspiration_page_5.php">Landelijke badkamers</a></li>

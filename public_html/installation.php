@@ -10,7 +10,7 @@ require_once '../src/init.php';
 
 	<?php getNavigationBar(); ?>
 
-	<div class="backGroundImages">
+	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Installationpageheader.png">
 	</div>
 	<div class="backColWhite boxShadow mb-5 boxShadowMargin">

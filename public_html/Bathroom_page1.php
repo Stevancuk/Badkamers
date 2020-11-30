@@ -10,26 +10,26 @@ require_once '../src/init.php';
 
 	<?php getNavigationBar(); ?>
 
-	<div class="backGroundImages">
+	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Bathroom(drop-menu)of6pagesheader1.png">
 	</div>
 	<div class="backColWhite bathPage1SmallImg">
-		<div class="vertically-align-mid">
-			<div class="posRel imageOptionsMain px-0">
+		<div class="vertically-align-mid bathPage1SmallImgsubb">
+			<div class="posRel imageOptionsMain imgOpBath1 px-0">
 				<div class="overLayerOpacity3 backColBlackOpacity">
 					<h2 class="text-center colWhite my-2">KLEINE BADKAMERS</h2>
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+				<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 					<img class="zoomOnHover" src="images/23.png">
 				</div>
 			</div>
-			<div class="posRel imageOptionsMain px-0">
+			<div class="posRel imageOptionsMain imgOpBath2 px-0">
 				<div class="overLayerOpacity3 backColBlackOpacity">
 					<h2 class="text-center colWhite my-2">EN-SUITE BADKAMERS</h2>
 					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
 				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+				<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 					<img class="zoomOnHover" src="images/22.png">
 				</div>
 			</div>
@@ -54,8 +54,8 @@ require_once '../src/init.php';
 							</div>
 						</div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-						<img src="images/36.png">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/36.png">
 					</div>
 				</div>
 				<div class="posRel imageOptionsMain1 px-0">
@@ -65,8 +65,8 @@ require_once '../src/init.php';
 							<img src="images/Arrowdown.svg">
 						</div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-						<img src="images/37.png">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/37.png">
 					</div>
 				</div>
 			</div>
@@ -84,8 +84,8 @@ require_once '../src/init.php';
 							</div>
 						</div> -->
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-						<img src="images/38.png">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/38.png">
 					</div>
 				</div>
 				<div class="posRel imageOptionsMain1 px-0">
@@ -95,8 +95,8 @@ require_once '../src/init.php';
 							<img src="images/Arrowdown.svg">
 						</div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-						<img src="images/39.png">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/39.png">
 					</div>
 				</div>
 			</div>

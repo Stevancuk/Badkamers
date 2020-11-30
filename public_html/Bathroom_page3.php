@@ -10,56 +10,60 @@ require_once '../src/init.php';
 
 	<?php getNavigationBar(); ?>
 
-	<div class="backGroundImages">
+	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Bathroom(drop-menu)of6pagesheader3.png">
 	</div>
-	<div class="backColWhite bathPage1SmallImg">
-		<div class="vertically-align-mid">
-			<div class="posRel imageOptionsMain2 px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">OPBOUW-OF INBOUWRAAN</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+	<div class="backColWhite">
+		<div class="vertically-align-mid landingImageSubb5ImgMain">
+			<div class="vertically-align-mid landingImageSubb5Img1">
+				<div class="posRel imageOptionsMain2 px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">OPBOUW-OF INBOUWRAAN</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/40.png">
+					</div>
 				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/40.png">
+				<div class="posRel imageOptionsMain2 px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">ENGREEPS KRAAN OF MENGKRAAN</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/41.png">
+					</div>
 				</div>
-			</div>
-			<div class="posRel imageOptionsMain2 px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">ENGREEPS KRAAN OF MENGKRAAN</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
-				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/41.png">
-				</div>
-			</div>
-			<div class="posRel imageOptionsMain2 px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">HOGE OF LAGE UITLOOP</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
-				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/42.png">
-				</div>
-			</div>
-			<div class="posRel imageOptionsMain2 px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">KRAAN MET WATERVALUITLOOP</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
-				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/43.png">
+				<div class="posRel imageOptionsMain2 px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">HOGE OF LAGE UITLOOP</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/42.png">
+					</div>
 				</div>
 			</div>
-			<div class="posRel imageOptionsMain2 px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">HOGE OF LAGE UITLOOP</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+			<div class="vertically-align-mid landingImageSubb5Img2">	
+				<div class="posRel imageOptionsMain2 px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">KRAAN MET WATERVALUITLOOP</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/43.png">
+					</div>
 				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/44.png">
+				<div class="posRel imageOptionsMain2 px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">HOGE OF LAGE UITLOOP</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/44.png">
+					</div>
 				</div>
-			</div>
+			</div>	
 		</div>
 	</div>
 	<div class="mt-5">

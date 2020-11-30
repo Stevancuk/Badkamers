@@ -10,47 +10,51 @@ require_once '../src/init.php';
 
 	<?php getNavigationBar(); ?>
 
-	<div class="backGroundImages">
+	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Bathroom5.png">
 	</div>
-	<div class="backColWhite bathPage1SmallImg">
-		<div class="vertically-align-mid">
-			<div class="posRel imageOptionsMain px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">DOUCHES</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+	<div class="backColWhite">
+		<div class="vertically-align-mid w-100 sqarewWindowsMain pb-5 backColWhite">
+			<div class="vertically-align-mid landingImageSubb1">
+				<div class="posRel imageOptionsMain px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">DOUCHES</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/28.png">
+					</div>
 				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/28.png">
+				<div class="posRel imageOptionsMain px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">DOUCHES</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/29.png">
+					</div>
 				</div>
-			</div>
-			<div class="posRel imageOptionsMain px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">DOUCHES</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+			</div>	
+			<div class="vertically-align-mid landingImageSubb2">	
+				<div class="posRel imageOptionsMain px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">DOUCHES</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/30.png">
+					</div>
 				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/29.png">
+				<div class="posRel imageOptionsMain px-0">
+					<div class="overLayerOpacity3 backColBlackOpacity">
+						<h2 class="text-center colWhite my-2">DOUCHES</h2>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					</div>
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
+						<img class="zoomOnHover" src="images/31.png">
+					</div>
 				</div>
-			</div>
-			<div class="posRel imageOptionsMain px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">DOUCHES</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
-				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/30.png">
-				</div>
-			</div>
-			<div class="posRel imageOptionsMain px-0">
-				<div class="overLayerOpacity3 backColBlackOpacity">
-					<h2 class="text-center colWhite my-2">DOUCHES</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
-				</div>
-				<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
-					<img class="zoomOnHover" src="images/31.png">
-				</div>
-			</div>
+			</div>	
 		</div>
 	</div>
 	<div class="mt-5">

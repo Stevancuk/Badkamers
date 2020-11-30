@@ -31,8 +31,8 @@ require_once '../src/init.php';
 	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Badinstallaties heeft al meer dan 12 jaar ervaring met het ontwerpen, verbouwen, en volledige nieuwbouw van badkamers en sanitaire ruimtes.</h3>
 	    </div>
 	</div>
-	<div class="backColWhite ">
-		<div class="vertically-align-mid w-100 mx-auto sqarewWindowsMain pb-5">
+	<div class="backColWhite">
+		<div class="vertically-align-mid w-100 sqarewWindowsMain pb-5 backColWhite">
 			<div class="vertically-align-mid landingImageSubb1">
 				<div class="posRel imageOptionsMain landingImage1 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
