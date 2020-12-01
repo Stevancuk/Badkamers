@@ -8,7 +8,7 @@
 
 		<ul class="navbar-nav ml-auto mr-4 vertically-align-mid">
 			<li class="nav-item active"> <a class="nav-item nav-link colWhite py-4" href="landing.php">Home</a> </li>
-			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="Inspiration_page_1">Installatie</a></li>
+			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="Inspiration_page_1.php">Installatie</a></li>
 			<li class="nav-item dropdown">
 				<a class="nav-item nav-link colWhite py-4 dropdown-toggle" id="nav_drop_down_1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Badkamer inspiratie</a>	
 				<ul class="dropdown-menu backColBlack" aria-labelledby="nav_drop_down_1">
@@ -18,7 +18,7 @@
 					<li><a class="dropdown-item colWhite" href="Inspiration_page_2.php">Moderne Badkamers</a></li>
 				</ul>
 			</li>
-			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="#">Toekomst bestendige badkamer</a></li>
+			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="Bathrooms.php">Toekomst bestendige badkamer</a></li>
 
 			<li class="nav-item dropdown">
 
@@ -79,7 +79,7 @@
 				</ul>			
 			</li>
 
-			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="#">Contact</a></li>
+			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="ContactUs.php">Contact</a></li>
 		</ul>
 
 	</div> <!-- navbar-collapse.// -->
