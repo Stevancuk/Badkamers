@@ -31,7 +31,7 @@ require_once '../src/init.php';
 		<h1 class="text-center my-5">Moderne badkamer met alle luxe</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een moderne badkamer kan natuurlijk niet zonder technische hoogstandjes. Wat dacht u van een infrarood-stoomcabine, toilet met koolstoffilter voor directe luchtzuivering, LED-verlichting, vloer- of muurverwarming en zelfs beeld- en geluidsapparatuur. Kortom: in de moderne badkamer kan het niet luxe genoeg. Meer van dit? Bekijk dan ook eens ons aanbod luxe badkamers.</h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Ook benieuwd hoe zo’n moderne badkamer eruit kan komen te zien? Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

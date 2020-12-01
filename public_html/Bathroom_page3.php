@@ -19,7 +19,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain2 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">OPBOUW-OF INBOUWRAAN</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Cranes_page_1.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/40.png">
@@ -28,7 +28,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain2 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">ENGREEPS KRAAN OF MENGKRAAN</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Cranes_page_2.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/41.png">
@@ -37,7 +37,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain2 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">HOGE OF LAGE UITLOOP</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Cranes_page_3.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/42.png">
@@ -48,7 +48,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain2 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">KRAAN MET WATERVALUITLOOP</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Cranes_page_4.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/43.png">
@@ -57,7 +57,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain2 px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">HOGE OF LAGE UITLOOP</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Cranes_page_5.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/44.png">
@@ -93,7 +93,7 @@ require_once '../src/init.php';
 		<h1 class="text-center my-5">Design</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Kies een kraan die past bij de stijl van jouw badkamer. Je hebt keuze uit uiteenlopende vormen en materialen; rechthoekig of rond. Wist je dat je tegenwoordig, naast een kraan van glanzend chroom of mat staal, ook kunt kiezen voor een heel moderne zwarte of witte kraan?</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet?</h3>
-		<h3 class="mb-5 text-center h3Main mx-auto">Graag uitnodigen wij u uit om contact met ons op te nemen. Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Graag uitnodigen wij u uit om contact met ons op te nemen. Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

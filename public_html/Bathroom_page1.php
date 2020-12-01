@@ -18,7 +18,7 @@ require_once '../src/init.php';
 			<div class="posRel imageOptionsMain imgOpBath1 px-0">
 				<div class="overLayerOpacity3 backColBlackOpacity">
 					<h2 class="text-center colWhite my-2">KLEINE BADKAMERS</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Bathroom_layout_page_1.php">Meer weten</a></h3></div>
 				</div>
 				<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 					<img class="zoomOnHover" src="images/23.png">
@@ -27,7 +27,7 @@ require_once '../src/init.php';
 			<div class="posRel imageOptionsMain imgOpBath2 px-0">
 				<div class="overLayerOpacity3 backColBlackOpacity">
 					<h2 class="text-center colWhite my-2">EN-SUITE BADKAMERS</h2>
-					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+					<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Bathroom_layout_page_1.php">Meer weten</a></h3></div>
 				</div>
 				<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 					<img class="zoomOnHover" src="images/22.png">
@@ -120,7 +120,7 @@ require_once '../src/init.php';
 		<h1 class="text-center mb-5">Advies over de badkamer indeling</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Onze adviseurs kunnen je nog veel meer vertellen over badkamer indelingen. Benieuwd hoe je jouw badkamer slim kan indelen? Neem vrijblijvend contact met ons op, en laat je verbazen over de mogelijkheden.</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="mb-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op  0851302688  of stuur ons een e-mail bericht   info@badinstallaties.nl</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op  <mark class="latoBold">0851302688</mark>  of stuur ons een e-mail bericht   info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

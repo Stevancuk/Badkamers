@@ -19,18 +19,18 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">WASTAFELS</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Washbasins_page_1.php">Meer weten</a></h3></div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/32.png">
 					</div>
 				</div>
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">WASTAFELS</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Washbasins_page_2.php">Meer weten</a></h3></div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/33.png">
 					</div>
 				</div>
@@ -39,18 +39,18 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">WASTAFELS</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Washbasins_page_3.php">Meer weten</a></h3></div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/34.png">
 					</div>
 				</div>
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">WASTAFELS</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Washbasins_page_4.php">Meer weten</a></h3></div>
 					</div>
-					<div class="borderCream posRel imageGrid mx-auto vertically-align-mid">
+					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/35.png">
 					</div>
 				</div>
@@ -73,7 +73,7 @@ require_once '../src/init.php';
 		<h3 class="my-5 text-center h3Main mx-auto">Naast de op de ouderwetse wastafel geïnspireerde waskom-combinaties zijn er natuurlijk ook strakke design, basic, dubbele, ronde, vierkante, ovale en rechthoekige wastafels te vinden. Speciaal voor de kleinere toiletruimtes zijn er ook leuke kleine wasbakjes in de collectie opgenomen. Zo valt er altijd een wastafel te vinden die perfect past bij de rest van je badkamer, de zolder of logeerkamer. Want ook daar kun je natuurlijk een wastafel voor uitzoeken.</h3>
 		<h3 class="mb-1 text-center h3Main mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet?</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto">Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="mb-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

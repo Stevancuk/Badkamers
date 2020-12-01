@@ -30,7 +30,7 @@ require_once '../src/init.php';
 		<h1 class="text-center my-5">De douchevloer</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Ook bij de vloer van een douche zijn er een aantal opties. Door de tegels van de badkamer door te laten lopen in je inloopdouche oogt de badkamer ruimtelijker en trek je de stijl van de badkamer door naar de douche. Dit is mooi, bijvoorbeeld als je een kleine badkamer hebt. Toch is een aparte douchevloer uit één materiaal ook steeds gewilder geworden. Deze vloeren hebben geen voegen en zijn daardoor makkelijker schoon te houden. Bovendien zijn douchevloeren beschikbaar in allerlei kleuren zodat er altijd een vloer is die past bij jouw badkamer.</h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

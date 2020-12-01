@@ -33,7 +33,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Twijfelt u tussen een bad of douche voor in uw badkamer? Met een douchebad combineert u beide mogelijkheden in uw badkamer. Zo kan u kiezen voor een snelle douche in de ochtend of een uitgebreid bad om heerlijk te ontspannen.</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een douchebad heeft daarom vaak een apart gedeelte om te douchen. De vloer is vlakker en vaak is het wat dieper gelegen zodat het water gemakkelijk wegloopt. Dit zorgt er voor dat er makkelijk gedoucht kan worden en de vlakke vloer zorgt voor minder slip gevaar.</h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

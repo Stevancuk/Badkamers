@@ -19,7 +19,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">DOUCHES</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Baths_and_Showers_page_1.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/24.png">
@@ -28,7 +28,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">DOUCHES</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Baths_and_Showers_page_2.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/25.png">
@@ -39,7 +39,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">DOUCHES</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Baths_and_Showers_page_3.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/26.png">
@@ -48,7 +48,7 @@ require_once '../src/init.php';
 				<div class="posRel imageOptionsMain px-0">
 					<div class="overLayerOpacity3 backColBlackOpacity">
 						<h2 class="text-center colWhite my-2">DOUCHES</h2>
-						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1">Meer weten</h3></div>
+						<div class="mx-auto borderWhite knowingMore"><h3 class="colWhite text-center py-1"><a class="colWhite" href="Baths_and_Showers_page_4.php">Meer weten</a></h3></div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/27.png">
@@ -80,7 +80,7 @@ require_once '../src/init.php';
 		</div>
 		<h3 class="mt-5 text-center h3Main mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies?</h3>
 		<h3 class="mb-5 text-center h3Main mx-auto">Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="mb-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

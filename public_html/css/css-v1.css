@@ -2,6 +2,10 @@
 	font-family: 'Raleway-Regular';
 	src: local('Raleway-Regular'), local('Raleway-Regular'), url('../fonts/Raleway-Regular.ttf') format('truetype');
 }
+@font-face {
+	font-family: 'Lato-Bold';
+	src: local('Lato-Bold'), local('Lato-Bold'), url('../fonts/Lato-Bold.ttf') format('truetype');
+}
 div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -164,6 +168,10 @@ textarea:focus { outline: none;}
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+.latoBold {
+	font-family: 'Lato-Bold';
+	background-color: transparent;
 }
 .h3Main {
 	width:90%; 
@@ -401,12 +409,38 @@ div.caruselInnerMain {
 .boxShadowMargin {
 	margin-top: -22px;
 }
-.whiteSectionMargin {
-	margin-top: -90px;
+.whiteSectionMargin1 {
+	width: 80%;
+	margin: 0 auto;
+}
+.rightImgMidsectionInstallation {
+	margin-top: -66px;
 }
 .whiteSectionMargin2 {
-	margin-top: -40px;
+	width: 80%;
+	margin: 0 auto;
 }
+.futureProofImg {
+	width: 90%;
+	margin:0 auto;
+}
+.futureProofImg .imgBrandLogos img {
+	width: 100%;
+}
+.futureProofImg .imgBrandLogos {
+	flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+    margin-bottom: 0px;
+    margin-top: -30px;
+}
+.leftImgMidsectionInstallation {
+	margin-top: 0px;
+}
+/*.leftTextMidsectionInstallation,
+.rightTextMidsectionInstallation {
+	width:600px; 
+}*/
 .plusIcon {
 	width:24px;
 	height: 24px;
@@ -526,9 +560,44 @@ div.caruselInnerMain {
 .step1FirstImage {
 	margin-top: -90px;
 	margin-bottom: -50px;
-	margin-left: 160px;
 	width: 424px;
 	flex-basis: 424px;
+}
+.bathrooms1FirstImage {
+	margin-top: -60px;
+	margin-bottom: 0px;
+	width: 424px;
+	flex-basis: 424px;
+	flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+.bathrooms1FirstImage img {
+	width: 100%;
+}
+.bathrooms2FirstImage img {
+	width: 100%;
+}
+.bathrooms3FirstImage img {
+	width: 100%;
+}
+.bathrooms2FirstImage {
+	margin-top: -60px;
+	margin-bottom:0px;
+	width: 424px;
+	flex-basis: 424px;
+	flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+.bathrooms3FirstImage {
+	margin-top: -60px;
+	margin-bottom: -100px;
+	width: 424px;
+	flex-basis: 424px;
+	flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
 }
 .step1FirstImage img {
 	width: 100%;
@@ -539,19 +608,36 @@ div.caruselInnerMain {
 .step2FirstImage {
 	margin-top: -50px;
 	margin-bottom: -50px;
-	margin-right: 160px;
 	width: 424px;
 	flex-basis: 424px;
+}
+.step4Num2 {
+	display: none;
 }
 .step3FirstImage {
 	margin-top: 0px;
 	margin-bottom: -50px;
-	margin-left: 160px;
+	width: 424px;
+	flex-basis: 424px;
+}
+.step4FirstImage {
+	margin-bottom: -50px;
 	width: 424px;
 	flex-basis: 424px;
 }
 .step2FirstImage img {
 	width: 100%;
+}
+.step4FirstImage img {
+	width: 100%;
+}
+.allStepsMain {
+	width: 80%;
+	margin:0 auto;
+}
+.allStepsMainBathrooms {
+	width: 80%;
+	margin:0 auto;
 }
 .step3FirstImage img {
 	width: 100%;
@@ -562,11 +648,11 @@ div.caruselInnerMain {
 .marTopForStep1 {
 	margin-top: -80px;
 }
-.marTopForStep2 {
-	margin-top: -20px;
+.textMainStep2 {
+	margin-top: 40px;
 }
 .inspirationSection1 {
-	height: 1030px;
+	height: 1060px;
 	background: url(../images/inspirationSection1.jpg) no-repeat bottom center fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -575,13 +661,15 @@ div.caruselInnerMain {
   	background-color: rgb(0,0,0,.3);
 }
 .step5FirstImage {
-	margin-top: -50px;
-	margin-left: 160px;
+	margin-top: 30px;
 	width: 424px;
 	flex-basis: 424px;
 }
 .step5FirstImage img {
 	width: 100%;
+}
+.sectionSubbBathrooms  {
+	padding-top: 100px;
 }
 .inspirationSection2 {
 	height: 700px;
@@ -844,6 +932,42 @@ div.caruselInnerMain {
   	background-size: cover;
   	background-color: rgb(0,0,0,.3);
 }
+.bathroomsSection1 {
+	height: 500px;
+	background: url(../images/photo-1507086182422-97bd7ca2413b.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomsSection2 {
+	height: 460px;
+	background: url(../images/ModernBathroomDesigns.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.bathroomsSection3 {
+	height: 460px;
+	background: url(../images/Bathroom-Accessories.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
+.renovatieSection1 {
+	height: 700px;
+	background: url(../images/photo-1482731215275-a1f151646268.jpg) no-repeat bottom center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: rgb(0,0,0,.3);
+}
 @media (max-width: 1900px) {
 	.imageOptionsMain  {
 		width: 400px;
@@ -868,6 +992,18 @@ div.caruselInnerMain {
 	}
 	.bathroomWalkInShoweSection3 {
 		height: 960px;
+	}
+	.marTopForStep2 {
+    margin-top: 20px;
+	}
+	.step4FirstImage {
+	margin-bottom: -100px;
+	}
+	.step5FirstImage {
+    margin-top: 60px;
+	}
+	.step3FirstImage {
+    margin-top: 30px;
 	}
 }
 
@@ -912,6 +1048,12 @@ div.caruselInnerMain {
 	.whiteSectionMargin2 {
 		margin-top: 0px;
 	}
+	.allStepsMain h1 {
+		font-size: 28px;
+	}
+	.allStepsMain h3 {
+		font-size: 18px;
+	}
 }
 
 @media (max-width: 1550px) {
@@ -926,6 +1068,63 @@ div.caruselInnerMain {
 	}
 	.bathsandshowersSection3 {
 		height: 800px;
+	}
+	.mainInstalationMidSection h1 {
+		font-size: 28px;
+	}
+	.mainInstalationMidSection h3 {
+		font-size: 18px;
+	}
+	.step3FirstImage {
+    margin-top: 50px;
+	}
+	.step5FirstImage {
+    margin-top: 100px;
+	}
+}
+@media (max-width: 1470px) {
+	.step4Num1 {
+		display: none;
+	}
+	.step4Num2 {
+		display: flex;
+		margin-top: 40px;
+	}
+	.step4Num2 h1,
+	.step4Num2 h3 {
+		color: #000;
+	}
+	.step2FirstImage {
+    margin-top: 0px;
+    margin-bottom: 0px;
+	}
+	.step1FirstImage {
+    margin-top: 0px;
+    margin-bottom: 0px;
+	}
+	.step4FirstImage {
+    margin-bottom: 0px;
+	}
+	.step5FirstImage {
+		margin-top: 0px;
+	}
+	.allStepsMain {
+		margin: 40px auto;
+	}
+	.step3FirstImage {
+    margin-top: 0px;
+	}
+	.step2Padding  {
+		padding-top: 40px;
+	}
+	.textMainStep2 {
+		margin-top: 0px;
+	}
+	.bathrooms2FirstImage {
+	margin-top: -80px;
+	}
+	.colBAndW {
+		color: #000;
 	}
 }
 @media (max-width: 1350px) {
@@ -965,6 +1164,46 @@ div.caruselInnerMain {
 	}
 	.bathsandshowersSection3 {
 		height: 900px;
+	}
+	.allStepsMainBathrooms h1 {
+		font-size: 28px;
+	}
+	.allStepsMainBathrooms h3 {
+		font-size: 18px;
+	}
+	.bathroomsSection3 {
+		height: 540px;
+	}
+}
+@media (max-width: 1199px) {
+	.bathroomsSection2  {
+		height: 520px;
+	}
+	.allStepsMainBathrooms {
+		width: 100%;
+		display: block;
+		margin: 30px auto;
+	}
+	.bathrooms1FirstImage {
+    margin: 30px auto;
+	}
+	.bathrooms2FirstImage {
+    margin: 30px auto;
+	}
+	.bathrooms3FirstImage {
+    margin: 30px auto;
+	}
+	.allStepsMainBathrooms .mainText {
+		width: 90%;
+		margin: 30px auto;
+	}
+	.allStepsMainBathrooms .mainText h1,
+	.allStepsMainBathrooms .mainText h3 {
+		text-align: center!important;
+		margin: 10px auto!important;
+	}
+	.allStepsMainBathrooms .marTopForStep1 {
+    margin-top: 0px;
 	}
 }
 @media (max-width: 1199px) {
@@ -1010,6 +1249,33 @@ div.caruselInnerMain {
 	}
 	.washbasinsSection3  {
 		height: 860px;
+	}
+	.whiteSectionMargin2 {
+    margin-top: 30px;
+    display: block;
+    width: 90%;
+	}
+	.whiteSectionMargin1 {
+    margin-top: 40px;
+    display: block;
+    width: 90%;
+	}
+	.rightImgMidsectionInstallation {
+    margin: 30px auto!important;
+	}
+	.mainInstalationMidSection h1,
+	.mainInstalationMidSection h3 {
+		text-align: center!important;
+	}
+	.leftImgMidsectionInstallation {
+		margin: 30px auto!important; 
+	}
+	.plusMain {
+		width: 400px;
+		margin: 0 auto;
+	}
+	.allStepsMain {
+		width: 90%;
 	}
 }
 @media (max-width: 1040px) {
@@ -1115,6 +1381,12 @@ div.caruselInnerMain {
 	.washbasinsSection2 {
 		height: 960px;
 	}
+	.allStepsMain {
+		width: 94%;
+	}
+	.bottomTextHeeft {
+		width: 90%!important;
+	}
 }
 @media (max-width: 950px) {
 	.caruselInnerSub {
@@ -1125,7 +1397,7 @@ div.caruselInnerMain {
 	}
 	.imgBrandLogos {
     width: 380px;
-    margin: 20px auto;
+    margin: 20px auto!important;
 	}
 	.mainBrandLogos {
     width: 100%;
@@ -1151,6 +1423,50 @@ div.caruselInnerMain {
 	}
 	.bathroomWalkInShoweSection4 {
 		height: 880px;
+	}
+	.allStepsMain {
+		display: block!important;
+		width: 100%!important;
+	}
+	.mainText {
+		width: 90%!important;
+		margin: 0 auto!important;
+	}
+	.mainText h1 {
+		margin: 20px auto!important;
+		text-align: center!important;
+	}
+	.mainText h3 {
+		text-align: center!important;
+		margin: 20px auto!important;
+	}
+	.mainImg {
+		margin: 0 auto;
+	}
+	.inspirationSection1 {
+		height: 1400px;
+	}
+	.mainImg {
+		width: 360px;
+		flex-basis: 360px;
+	}
+	.inspirationSection1 .step4Num1 {
+		display: none!important;
+	}
+	.sectionSubbBathrooms {
+    padding-top: 60px;
+	}
+	.futureProofImg {
+	width: 100%;
+	margin:0 auto;
+	display: block!important;
+	padding: 40px 0px;
+	}
+	.backColDarkOpacity  {
+		width: 90%!important;
+	}
+	h2 {
+		font-size: 22px;
 	}
 }
 @media (max-width: 880px) {
@@ -1241,6 +1557,13 @@ div.caruselInnerMain {
 	.bathsandshowersSection2 {
 		height: 760px;
 	}
+	.mainInstalationMidSection .plusMain h3 {
+		text-align: left!important;
+		width: 100%!important;
+	}
+	.mainInstalationMidSection .plusMain {
+		width: 400px!important;
+	}
 }
 @media (max-width: 800px) {
 	.bathroomWalkInShoweSection3 {
@@ -1297,6 +1620,9 @@ div.caruselInnerMain {
 	.bathsandshowersSection2 {
 		height: 820px;
 	}
+	.inspirationSection1 {
+		height: 1500px;
+	}
 }
 @media (max-width: 580px) {
 	.headerText {
@@ -1341,6 +1667,12 @@ div.caruselInnerMain {
 	}
 	.washbasinsSection3  {
 		height: 1000px;
+	}
+	.sqarewWindowsCustom {
+    width: 400px;
+	}
+	.inspirationSection1 {
+		height: 1600px;
 	}
 }
 @media (max-width: 530px) {
@@ -1394,6 +1726,25 @@ div.caruselInnerMain {
 	}
 	.washbasinsSection2 {
 		height: 1160px;
+	}
+	.mainInstalationMidSection .plusMain h3 {
+		font-size: 16px;
+	}
+	.mainInstalationMidSection .plusMain {
+		width: 360px!important;
+	}
+	.sqarewWindowsCustom {
+    width: 320px;
+	}
+	.mainImg {
+    width: 320px;
+    flex-basis: 320px;
+	}
+	.bathroomsSection3 {
+		height: 600px;
+	}
+	h2 {
+		font-size: 20px;
 	}
 }
 @media (max-width: 500px) {
@@ -1481,6 +1832,15 @@ div.caruselInnerMain {
 	.washbasinsSection4 {
 		height: 700px;
 	}
+	.inspirationSection1 {
+		height: 1700px;
+	}
+	.bathroomsSection2 {
+		height: 600px;
+	}
+	.bathroomsSection3 {
+		height: 660px;
+	}
 }
 @media (max-width: 494px) {
 	.imgAndTextCarusel {
@@ -1545,6 +1905,25 @@ div.caruselInnerMain {
 	.washbasinsSection2 {
 		height: 1360px;
 	}
+	.mainInstalationMidSection .plusMain h3 {
+		font-size: 14px;
+	}
+	.mainInstalationMidSection .plusMain {
+		width: 320px!important;
+	}
+	.plusIcon {
+    width: 20px;
+    height: 20px;
+	}
+	.bathroomsSection1 {
+		height: 600px;
+	}
+	.bathroomsSection2 {
+		height: 660px;
+	}
+	h2 {
+		font-size: 16px;
+	}
 }
 @media (max-width: 410px) {
 	.bathroomWalkInShoweSection3 {
@@ -1573,6 +1952,12 @@ div.caruselInnerMain {
 	}
 	.bathsandshowersSection4  {
 		height: 700px;
+	}
+	.inspirationSection1 {
+		height: 1800px;
+	}
+	.bathroomsSection3 {
+		height: 720px;
 	}
 }
 

@@ -193,21 +193,21 @@ require_once '../src/init.php';
 		<h1 class="colBlack text-center pt-4">Merken</h1>
 		<h3 class="colBlack mx-auto h3Main text-center mb-5">Onderstaande merken worden door Badinstallaties veelal gebruikt. De getoonde merken staan voor kwaliteit en duurzaam en gaan uw leven lang mee. Staat het door u gevonden merk er niet tussen, vrees niet. Wij kunnen u altijd verder helpen.</h3>
 		<div class="vertically-align-mid mx-auto justify-content-between mainBrandLogos">
-			<div class="imgBrandLogos borderCream vertically-align-mid">
-				<img src="images/1.jpg">
+			<div class="overflow-hidden imgBrandLogos borderCream vertically-align-mid">
+				<img class="zoomOnHover" src="images/1.jpg">
 			</div>
-			<div class="imgBrandLogos borderCream vertically-align-mid">
-				<img src="images/2.jpg">
+			<div class="overflow-hidden imgBrandLogos borderCream vertically-align-mid">
+				<img class="zoomOnHover" src="images/2.jpg">
 			</div>
-			<div class="imgBrandLogos borderCream vertically-align-mid">
-				<img src="images/3.jpg">
+			<div class="overflow-hidden imgBrandLogos borderCream vertically-align-mid">
+				<img class="zoomOnHover" src="images/3.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="contactUsMainSection mx-auto my-5 vertically-align-mid">
 		<div class="leftContact">
 			<h1 class="colBlack text-left">Contact Us</h1>
-			<h4 class="colBlack text-left my-3">Do not hesitate to contact us in case you have questions. We will do our utmost best to answer your questions within 48 hours.</h4>
+			<h4 class="colBlack text-left my-3">Do not hesitate to contact us in case you have questions. We will do our utmost best to answer your questions within <mark class="latoBold">48</mark> hours.</h4>
 			<form id="contact_us">
 				<input type="text" name="" class="w-100 form-control-lg borderForInputs borderRadius pl-2 mb-3" placeholder="Name">
 				<input type="email" name="" class="w-100 form-control-lg borderForInputs borderRadius pl-2 mb-3" placeholder="Email">
@@ -222,17 +222,17 @@ require_once '../src/init.php';
 		</div>
 		<div class="ml-5 rightContact">
 			<h3 class="colBlack mt-2 pt-2 ml-auto text-left">Construction company</h3>
-			<h3 class="colBlack mb-3 ml-auto text-left"><b>123 BADKAMERS</b></h3>
-			<h3 class="colBlack ml-auto text-left">Construction of Commerce: <b>72823259</b></h3>
-			<h3 class="colBlack ml-auto text-left mb-3">VAT: <b>NL223096027B02</b></h3>
+			<h3 class="colBlack mb-3 ml-auto text-left"><b><mark class="latoBold">123</mark> BADKAMERS</b></h3>
+			<h3 class="colBlack ml-auto text-left">Construction of Commerce: <b class="latoBold">72823259</b></h3>
+			<h3 class="colBlack ml-auto text-left mb-3">VAT: <b class="latoBold">NL223096027B02</b></h3>
 			<div class="telNumAndAdress">
 				<div class="vertically-align-mid justify-content-start mb-2">
 					<i class="fas fa-map-marker-alt fa-2x colPink text-left mr-3"></i>
-					<h3 class="colBlack mx-0 text-left">Industriewag <b>6 11 2712</b> LB Zoetermeer</h3>
+					<h3 class="colBlack mx-0 text-left">Industriewag <b class="latoBold">6 11 2712</b> LB Zoetermeer</h3>
 				</div>
 				<div class="vertically-align-mid justify-content-start">
 					<i class="fas fa-mobile-alt fa-lg mr-2 fa-2x"></i>
-					<h3 class="colBlack text-left"><b>+31 (0) 85-1301581</b></h3>
+					<h3 class="colBlack text-left latoBold"><b>+31 (0) 85-1301581</b></h3>
 				</div>
 			</div>
 		</div>

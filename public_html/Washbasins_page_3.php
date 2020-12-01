@@ -31,7 +31,7 @@ require_once '../src/init.php';
 		<h1 class="text-center my-5">Een enkel of een dubbel wastafelblad?</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Sta je ’s ochtends in de file voor de wastafel? Twee wasbakken in je wastafel zorgt ervoor dat alle huisgenoten snel aan de beurt zijn. Wil je graag een strakke en rustige uitstraling maar liever een enkele wasbak? Dan is een breed wastafelblad met een grote geïntegreerde wasbak de juiste keuze voor jou. Ook dan kun je met twee personen tegelijk gebruik maken van de wastafel. Hou je van een oplossing die meer speels is? Kies dan voor  twee waskommen op een wastafelblad, waardoor er voor twee personen eveneens voldoende ruimte is.</h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

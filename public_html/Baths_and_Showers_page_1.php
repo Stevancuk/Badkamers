@@ -30,7 +30,7 @@ require_once '../src/init.php';
 		<h1 class="text-center my-5">Tweepersoonsbad met whirlpool</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Houd je van badderen en wil je jezelf wat extra verwennen? Kies er dan voor om je tweepersoonsbad van een whirlpool systeem te voorzien. Dankzij het bubbelende water geniet je samen van ultieme ontspanning en kun je je hoofd even helemaal leegmaken. Voor de echte badder liefhebbers is dit dan ook zeker een aanrader. Wil je er nog een vleugje romantiek aan toevoegen? Denk dan eens aan het gebruiken van speciale badaroma’s onder het genot van een toepasselijk glaasje.</h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

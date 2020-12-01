@@ -31,7 +31,7 @@ require_once '../src/init.php';
 		<h1 class="text-center my-5">Verschillende vormen</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Er bestaat een breed assortiment aan dubbele wastafels waarbij je de keuze hebt uit verschillende vormen. Denk hierbij aan rond, rechthoekig, vierkant en ovaal. Ronde en ovale wastafels zijn tijdloos en hebben als voordeel dat ze gemakkelijk schoon te maken zijn. Het vierkant en rechthoekig model passen mooi in een strakke badkamer.</h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>

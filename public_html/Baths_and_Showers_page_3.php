@@ -32,7 +32,7 @@ require_once '../src/init.php';
 		<h3 class="mb-5 text-center h3Main mx-auto">Wanneer je kiest voor een vrijstaand bad is het belangrijk om de beschikbare ruimte in je badkamer in je achterhoofd te houden. Omdat een vrijstaand bad niet strak tegen een muur komt te staan, heeft dit bad meer ruimte nodig dan een traditioneel bad. Bovendien komt het bad beter tot zijn recht in een grotere badkamer. Heb je minder ruimte om mee te werken, maar wil je toch graag genieten van een vrijstaand bad?</h3>
 		<h3 class="text-center my-3 w-75 mx-auto"><b>" Vraag onze adviseurs om handige tips, zij weten als geen ander een ruimtelijke sfeer te creëren waar het bad mooi in past.</b></h3>
 		<h3 class="my-5 text-center w-50 mx-auto">Heeft u vragen over onze diensten of behoefte aan vakkundig advies? Heeft u (ver-)bouwplannen of bent u toe aan een nieuwe badkamer of toilet? Graag uitnodigen wij u uit om contact met ons op te nemen.</h3>
-		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op 0851302688 of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
+		<h3 class="my-5 text-center h3Main mx-auto">Wij hebben al vele mooie “droom” badkamers mogen realiseren over geheel Nederland, o.a. Regio Utrecht, Zuid-Holland, etc. Wij helpen u natuurlijk graag! Neem vrijblijvend telefonisch contact met ons op <mark class="latoBold">0851302688</mark> of stuur ons een e-mail bericht info@badinstallaties.nl</h3>
 		<div class="iconEmail mx-auto">
 			<img src="images/ContactUsIcon.svg">
 		</div>
