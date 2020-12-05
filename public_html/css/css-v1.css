@@ -250,6 +250,12 @@ textarea:focus { outline: none;}
 	width: 100%;
 	z-index:9;
 }
+.jsAnimateText {
+	display: none;
+}
+.jsAnimateArrowAndText {
+	min-height: 188px;
+}
 .posRel {
 	position: relative;
 }
@@ -1277,6 +1283,10 @@ div.caruselInnerMain {
 	.allStepsMain {
 		width: 90%;
 	}
+	/*Hide 2nd level sub-menu in navbar for smaller devices (when menu converts to 'burger' menu)*/
+	.dropdown-item::after {
+		display: none;
+	}
 }
 @media (max-width: 1040px) {
 	.mark2 {
@@ -1571,6 +1581,9 @@ div.caruselInnerMain {
 	}
 }
 @media (max-width: 720px) {
+	.jsAnimateArrowAndText {
+		min-height: 132px;
+	}
 	.sliderTextAndCommentSubb {
 	padding: 0px!important;	
 	}
@@ -1748,6 +1761,9 @@ div.caruselInnerMain {
 	}
 }
 @media (max-width: 500px) {
+	.jsAnimateArrowAndText {
+		min-height: 85px;
+	}
 	.navbar .logoBradA {
     width: 200px;
     margin-left: 1rem!important;

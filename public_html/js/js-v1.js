@@ -24,6 +24,29 @@ $('.carousel').carousel({
   interval: false,
 });
 
+//Bathroom_page 1
+$('.jsAnimateArrowAndText .arrowDownBigImg img').on("click", function(){
+	let $content = $(this).closest('.jsAnimateArrowAndText').find('.jsAnimateText');
+	let $arrowDownWrapper = $(this).closest('.jsAnimateArrowAndText').find('.jsArrowDownWrapper');
+	$arrowDownWrapper.css("display", "none");
+	$content.animate({
+		height : "toggle"
+	}, 700, function() {
+		// Animation complete.
+	});
+})
+$('.jsAnimateArrowAndText .arrowUpBigImg img').on("click", function(){
+	let $content = $(this).closest('.jsAnimateArrowAndText').find('.jsAnimateText');
+	let $arrowDownWrapper = $(this).closest('.jsAnimateArrowAndText').find('.jsArrowDownWrapper');
+	$content.animate({
+		height : "toggle"
+	}, 700, function() {
+		// Animation complete.
+		$arrowDownWrapper.css("display", "flex");
+	});
+})
+
+
 $( window ).resize(function() {
 	if ($('.backgroundPar').length) {
 		getBackgroundImageSize(jQuery('.backgroundPar'))

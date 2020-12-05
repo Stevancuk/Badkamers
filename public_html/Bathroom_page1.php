@@ -42,12 +42,12 @@ require_once '../src/init.php';
 		<div class="backColWhite bathPage1BigImg">
 			<div class="vertically-align-mid bathPage1BigImgSection">
 				<div class="posRel imageOptionsMain1 px-0">
-					<div class="overLayerOpacity3 backColBlackOpacity">
+					<div class="overLayerOpacity3 backColBlackOpacity jsAnimateArrowAndText">
 						<h1 class="text-center colWhite"><b>Kleine badkamer</b></h1>
-						<!-- <div class="arrowDownBigImg mx-auto">
+						<div class="arrowDownBigImg mx-auto jsArrowDownWrapper">
 							<img src="images/Arrowdown.svg">
-						</div> -->
-						<div class="bathTextBigImage mx-auto">
+						</div>
+						<div class="bathTextBigImage mx-auto jsAnimateText">
 							<h3 class="colWhite text-center">De meeste Nederlanders hebben een kleine badkamer en staan voor dezelfde keuzes wat betreft de indeling van de badkamer. Zoals de keuze tussen een bad en een douche. Maar een bad-douche combinatie kan misschien ook. Stel prioriteiten en bedenk wat belangrijk is voor jouw comfort: een dubbele wastafel of een toilet.</h3>
 							<div class="arrowUpBigImg mx-auto">
 								<img src="images/ArrowUP.svg">
@@ -59,10 +59,16 @@ require_once '../src/init.php';
 					</div>
 				</div>
 				<div class="posRel imageOptionsMain1 px-0">
-					<div class="overLayerOpacity3 backColBlackOpacity">
+					<div class="overLayerOpacity3 backColBlackOpacity jsAnimateArrowAndText">
 						<h1 class="text-center colWhite"><b>Grote badkamer</b></h1>
-						<div class="arrowDownBigImg mx-auto">
+						<div class="arrowDownBigImg mx-auto jsArrowDownWrapper">
 							<img src="images/Arrowdown.svg">
+						</div>
+						<div class="bathTextBigImage mx-auto jsAnimateText">
+							<h3 class="colWhite text-center">De meeste Nederlanders hebben een kleine badkamer en staan voor dezelfde keuzes wat betreft de indeling van de badkamer. Zoals de keuze tussen een bad en een douche. Maar een bad-douche combinatie kan misschien ook. Stel prioriteiten en bedenk wat belangrijk is voor jouw comfort: een dubbele wastafel of een toilet.</h3>
+							<div class="arrowUpBigImg mx-auto">
+								<img src="images/ArrowUP.svg">
+							</div>
 						</div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
@@ -72,27 +78,33 @@ require_once '../src/init.php';
 			</div>
 			<div class="vertically-align-mid bathPage1BigImgSection">
 				<div class="posRel imageOptionsMain1 px-0">
-					<div class="overLayerOpacity3 backColBlackOpacity">
+					<div class="overLayerOpacity3 backColBlackOpacity jsAnimateArrowAndText">
 						<h1 class="text-center colWhite"><b>Badkamer met schuin dak</b></h1>
-						<div class="arrowDownBigImg mx-auto">
+						<div class="arrowDownBigImg mx-auto jsArrowDownWrapper">
 							<img src="images/Arrowdown.svg">
 						</div>
-						<!-- <div class="bathTextBigImage mx-auto">
+						<div class="bathTextBigImage mx-auto jsAnimateText">
 							<h3 class="colWhite text-center">De meeste Nederlanders hebben een kleine badkamer en staan voor dezelfde keuzes wat betreft de indeling van de badkamer. Zoals de keuze tussen een bad en een douche. Maar een bad-douche combinatie kan misschien ook. Stel prioriteiten en bedenk wat belangrijk is voor jouw comfort: een dubbele wastafel of een toilet.</h3>
 							<div class="arrowUpBigImg mx-auto">
 								<img src="images/ArrowUP.svg">
 							</div>
-						</div> -->
+						</div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
 						<img class="zoomOnHover" src="images/38.png">
 					</div>
 				</div>
 				<div class="posRel imageOptionsMain1 px-0">
-					<div class="overLayerOpacity3 backColBlackOpacity">
+					<div class="overLayerOpacity3 backColBlackOpacity jsAnimateArrowAndText">
 						<h1 class="text-center colWhite"><b>En-suite badkamer</b></h1>
-						<div class="arrowDownBigImg mx-auto">
+						<div class="arrowDownBigImg mx-auto jsArrowDownWrapper">
 							<img src="images/Arrowdown.svg">
+						</div>
+						<div class="bathTextBigImage mx-auto jsAnimateText">
+							<h3 class="colWhite text-center">De meeste Nederlanders hebben een kleine badkamer en staan voor dezelfde keuzes wat betreft de indeling van de badkamer. Zoals de keuze tussen een bad en een douche. Maar een bad-douche combinatie kan misschien ook. Stel prioriteiten en bedenk wat belangrijk is voor jouw comfort: een dubbele wastafel of een toilet.</h3>
+							<div class="arrowUpBigImg mx-auto">
+								<img src="images/ArrowUP.svg">
+							</div>
 						</div>
 					</div>
 					<div class="overflow-hidden borderCream posRel imageGrid mx-auto vertically-align-mid">
