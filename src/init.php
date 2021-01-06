@@ -24,7 +24,7 @@ if (! ENV_KEY) {
 	define('MYSITE', 'https://localhost/' . basename(PROJECT) . '/' . basename(PUBLIC_PATH) . '/');
 } else {
 	// 	SERVER
-	define('MYSITE', '');
+	define('MYSITE', 'http://123badinstallaties.nl/');
 }
 
 date_default_timezone_set('UTC');
