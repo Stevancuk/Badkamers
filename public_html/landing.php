@@ -23,7 +23,7 @@ require_once '../src/init.php';
 	</div>
 	<div class="videoLanding py-5">
 		<video controls="" class="mx-auto w-75 d-flex">
-			<source src="videos/VID-20201211-WA0018.mp4" type="">
+			<source src="videos/videoHome.mp4" type="">
 		</video>	
 	</div>	
 	<div class="landingSection1 backgroundPar d-flex">

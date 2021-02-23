@@ -16,7 +16,7 @@ require_once '../src/init.php';
 	<div class="backColWhite boxShadow mb-5 boxShadowMargin">
 		<div class="videoInstal pt-5 pb-2">
 			<video controls="" class="d-flex mx-auto w-75">
-				<source src="videos/Video.mp4" type="">
+				<source src="videos/videoInstallaion.mp4" type="">
 			</video>	
 		</div>	
 		<div class="midIcons mx-auto mt-3">
