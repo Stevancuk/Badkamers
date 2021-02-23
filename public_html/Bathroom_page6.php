@@ -59,7 +59,7 @@ require_once '../src/init.php';
 	</div>
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Wastafels</h1>
-		<h3 class="mb-5 text-center h3Main mx-auto">Tanden poetsen, handen wassen, scheren… het gebeurt allemaal boven de wastafel in de badkamer of in het toilet. Een wastafel wordt ook wel gebruikt om je snel met een washandje op te frissen of het gezicht te wassen. En of je nu een wastafel zoekt voor de logeerkamer, het toilet of de badkamer: bij badinstallaties vind je altijd de wastafel die bij jou en je interieur past.</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Tanden poetsen, handen wassen, scheren… het gebeurt allemaal boven de wastafel in de badkamer of in het toilet. Een wastafel wordt ook wel gebruikt om je snel met een washandje op te frissen of het gezicht te wassen. En of je nu een wastafel zoekt voor de logeerkamer, het toilet of de badkamer: bij 123Badinstallaties vind je altijd de wastafel die bij jou en je interieur past.</h3>
 		<div class="bathroomWalkInShoweSection6 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">

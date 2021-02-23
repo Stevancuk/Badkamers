@@ -17,7 +17,7 @@ require_once '../src/init.php';
 		<h1 class="text-center mb-5">Vrijstaand Bad</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Een vrijstaand bad is dé uitkomst wanneer je je badkamer net dat beetje extra wil geven. Doordat dit bad als los element in de badkamer staat, wordt een vrijstaand bad als pronkstuk van de badkamer gezien. Qua vorm, afmeting, maar ook wat betreft stijl zijn er verschillende mogelijkheden om jouw klassieke, moderne of tijdloze badkamer te voorzien van een vrijstaand bad. Je geniet voortaan niet alleen van een ontspannen gevoel tijdens het badderen, maar wordt ook bijzonder blij van de uitstraling die dit bad met zich meebrengt.</h3>
 		<h1 class="text-center mb-5">Een vrijstaand bad: soorten, maten en stijlen</h1>
-		<h3 class="mb-5 text-center h3Main mx-auto">Wil jij ook een vrijstaand bad dat geheel aan jouw wensen voldoet? Bij badinstallaties vind je ze in allerlei vormen, stijlen en afmetingen:</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Wil jij ook een vrijstaand bad dat geheel aan jouw wensen voldoet? Bij 123Badinstallaties vind je ze in allerlei vormen, stijlen en afmetingen:</h3>
 		<div class="bathsandshowersSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">
@@ -25,7 +25,7 @@ require_once '../src/init.php';
 				</div>
 		    	<h1 class="colWhite">Vorm</h1>
 		    	<h3 class="colWhite text-center h3Main mx-auto py-3">Rond, ovaal, vierkant of rechthoekig, tegenwoordig zijn er vrijstaande baden in allerlei vormen. Hoe verschillend ze ook zijn, toch hebben deze vormen een gemeenschappelijk kenmerk; stuk voor stuk staan ze als los element in de badkamer.Stijl. Vroeger zag je een vrijstaand bad veelal in klassieke of landelijke badkamers terugkomen. De witte ovaalvormige badkuip op pootjes kan je je vast nog wel voor de geest halen. Tegenwoordig is het assortiment zo groot dat een vrijstaand bad niet alleen geschikt is voor de klassieke badkamer, maar ook voor de moderne. Kies voor een ovaalvormige badkuip met pootjes wanneer je graag een klassieke uitstraling wilt creëren.</h3>
-		    	<h3 class="colWhite text-center h3Main mx-auto py-3">Of kies voor een strakke, geheel op de vloer gemonteerde variant, wanneer je voorkeur uitgaat naar een moderne badkamer. Afmeting. Wanneer je een bad neemt, is het belangrijk dat je jezelf volledig kan ontspannen. Dit kan alleen wanneer het bad de juiste afmetingen heeft, zodat je een comfortabele houding aan kunt nemen. Om je te helpen bij het kiezen van het juiste ligcomfort geeft badinstallaties je graag passend advies over de perfecte afmetingen van jouw bad.</h3>
+		    	<h3 class="colWhite text-center h3Main mx-auto py-3">Of kies voor een strakke, geheel op de vloer gemonteerde variant, wanneer je voorkeur uitgaat naar een moderne badkamer. Afmeting. Wanneer je een bad neemt, is het belangrijk dat je jezelf volledig kan ontspannen. Dit kan alleen wanneer het bad de juiste afmetingen heeft, zodat je een comfortabele houding aan kunt nemen. Om je te helpen bij het kiezen van het juiste ligcomfort geeft 123Badinstallaties je graag passend advies over de perfecte afmetingen van jouw bad.</h3>
 		    </div>
 		</div>
 		<h1 class="text-center my-5">Grootte van de badkamer</h1>

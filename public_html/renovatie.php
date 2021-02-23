@@ -15,7 +15,7 @@ require_once '../src/init.php';
 	</div>
 	<div class="backColWhite">
 		<h1 class="mx-auto colBlack w-75 text-center my-4">Plannen voor badkamer renovatie?</h1>
-		<h3 class="mx-auto colBlack h3Main text-center mt-4 mb-5">De specialisten van badinstallaties regelen alles voor u. Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie.</h3>
+		<h3 class="mx-auto colBlack h3Main text-center mt-4 mb-5">De specialisten van 123Badinstallaties regelen alles voor u. Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie.</h3>
 	</div>
 	<div class="renovatieSection1 backgroundPar">
 		<div class="backColBlackOpacity w-100 h-100">
@@ -23,7 +23,7 @@ require_once '../src/init.php';
 				<img src="images/Bathroomrenovationpageicon-1.svg">
 			</div>
 			<h1 class="mx-auto colWhite">Van ontwerp tot montage</h1>
-			<h3 class="mx-auto colWhite h3Main text-center">Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor u:</h3>
+			<h3 class="mx-auto colWhite h3Main text-center">Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van 123Badinstallaties regelt alles voor u:</h3>
 			<div class="w-75 mx-auto backColDarkOpacity mt-4 mb-3">
 				<div class="vertically-align-mid pt-2"><div class="circleDot backColWhite"></div><h2 class="vertically-align-mid text-center colWhite ml-3">Badkamer ontwerp naar uw wensen</h2></div>
 				<div class="vertically-align-mid"><div class="circleDot backColWhite"></div><h2 class="vertically-align-mid text-center colWhite ml-3">Uw oude badkamer slopen</h2></div>

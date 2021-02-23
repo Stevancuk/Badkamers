@@ -19,7 +19,7 @@ require_once '../src/init.php';
 		</div>
 		<h1 class="">Badkamers</h1>
 		<h3 class="text-center h3Main mx-auto py-3">De badkamer is een van de centrale plekken van je woning. Niet gek dus dat je goed wil nadenken over de inrichting en uitstraling daarvan. Er zijn talloze mogelijkheden qua opstelling, design en sanitair. Maar om te beginnen is het wel zo handig om je favoriete stijl te kiezen, zodat je die in ieder detail kunt doorvoeren.</h3>
-		<h3 class="colWhite text-center h3Main mx-auto py-3">Badinstallaties zet daarom de badkamerstijlen en inspiratie mogelijkheden op een rijtje.</h3>
+		<h3 class="colWhite text-center h3Main mx-auto py-3">123Badinstallaties zet daarom de badkamerstijlen en inspiratie mogelijkheden op een rijtje.</h3>
 	</div>
 	<div class="bathroomsSection1 backgroundPar mt-5">
 		<div class="backColBlackOpacity w-100 h-100 sectionSubbBathrooms">
@@ -66,7 +66,7 @@ require_once '../src/init.php';
 		<div class="backColBlackOpacity w-100 h-100 sectionSubbBathrooms">
 	    	<h1 class="colWhite">Accessoires</h1>
 	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Niet alleen het soort voorzieningen, maar ook de vormgeving daarvan draagt bij aan jouw badkamerstijl. Zo zijn ronde kranen bijvoorbeeld prachtig in een landelijke badkamer, terwijl je bij moderne badkamers ook voor vierkante modellen kunt gaan. Je bent liever met het eindresultaat bezig, maar ondertussen bezorgt een nieuwe badkamer je alleen maar hoofdpijn. En dat is zonde, want de oplossing ligt letterlijk binnen handbereik!</h3>
-	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Bij badinstallaties kun je kiezen uit verschillende alles-in-één badkamers in diverse stijlen én een belangrijk voordeel is dat de complete montage voor je wordt geregeld. Dat scheelt je het hak- en breekwerk.</h3>
+	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Bij 123Badinstallaties kun je kiezen uit verschillende alles-in-één badkamers in diverse stijlen én een belangrijk voordeel is dat de complete montage voor je wordt geregeld. Dat scheelt je het hak- en breekwerk.</h3>
 	    </div>
 	</div>
 	<h1 class="text-center my-5">Keuze uit diverse designs</h1>

@@ -15,7 +15,7 @@ require_once '../src/init.php';
 	</div>
 	<div class="mt-5">
 		<h1 class="text-center mb-5">Wastafelbladen: kies jouw eigen stijl</h1>
-		<h3 class="mb-5 text-center h3Main mx-auto">Een wastafelblad kan een echte eye-catcher zijn in jouw badkamer of juist zorgen voor een rustige uitstraling. Badinstallaties kunt u zeer vakkundig adviseren, welk wastafelblad het beste past qua stijl en toepassing. Je kunt kiezen uit tal van materialen, kleuren en stijlen. Een keuze hieruit maken is niet altijd makkelijk. Daarom zetten we voor jou alle keuzes op een rij.</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">Een wastafelblad kan een echte eye-catcher zijn in jouw badkamer of juist zorgen voor een rustige uitstraling. 123Badinstallaties kunt u zeer vakkundig adviseren, welk wastafelblad het beste past qua stijl en toepassing. Je kunt kiezen uit tal van materialen, kleuren en stijlen. Een keuze hieruit maken is niet altijd makkelijk. Daarom zetten we voor jou alle keuzes op een rij.</h3>
 		<div class="washbasinsSection3 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">

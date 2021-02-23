@@ -19,7 +19,7 @@ require_once '../src/init.php';
 		</div>
 		<h1 class="">Toekomst bestendige badkamer</h1>
 		<h3 class="text-center h3Main mx-auto py-3">De laatste jaren wordt er steeds meer van de Nederlander verwacht zelfredzaam te zijn en te blijven. Dit betekent  dat u nu of in de toekomst  langer in uw eigen woning moet blijven wonen. De kleine dingen die nu nog gemakkelijk gaan, zullen  lastiger of soms zelfs onmogelijk worden zullen als u op leeftijd begint te komen.</h3>
-		<h3 class="colWhite text-center h3Main mx-auto py-3">Badinstallaties zet daarom de badkamerstijlen en inspiratie mogelijkheden op een rijtje.</h3>
+		<h3 class="colWhite text-center h3Main mx-auto py-3">123Badinstallaties zet daarom de badkamerstijlen en inspiratie mogelijkheden op een rijtje.</h3>
 	</div>
 	<div class="vertically-align-mid mx-auto justify-content-between futureProofImg">
 		<div class="overflow-hidden borderCream vertically-align-mid imgBrandLogos">

@@ -13,7 +13,7 @@ require_once '../src/init.php';
 	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Badkamerslandingpage.png">
 		<div class="headerText backColBlackOpacity">
-			<h3 class="colWhite text-left mx-5 mt-3"><mark class="backColTransparent colWhite mark1">Plannen voor badkamer renovatie?</mark> <mark class="backColTransparent colWhite mark2">De specialisten van badinstallaties regelen alles voor u. Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie.</mark> <mark class="backColTransparent colWhite mark3">Van ontwerp tot montage Uw volledige badkamer renoveren?</mark> <mark class="backColTransparent colWhite mark4">Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look.</mark> <mark class="backColTransparent colWhite mark5">Het team van badinstallaties regelt alles voor.</mark></h3>
+			<h3 class="colWhite text-left mx-5 mt-3"><mark class="backColTransparent colWhite mark1">Plannen voor badkamer renovatie?</mark> <mark class="backColTransparent colWhite mark2">De specialisten van 123Badinstallaties regelen alles voor u. Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie.</mark> <mark class="backColTransparent colWhite mark3">Van ontwerp tot montage Uw volledige badkamer renoveren?</mark> <mark class="backColTransparent colWhite mark4">Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look.</mark> <mark class="backColTransparent colWhite mark5">Het team van 123Badinstallaties regelt alles voor.</mark></h3>
 			<div class="borderWhite knowingMore my-3 ml-5"><h3 class="colWhite py-1 text-center"><a class="colWhite" href="renovatie.php">Meer weten</a></h3></div>
 			<div class="relDivForWhiteLines">
 				<div class="verticalWhiteLine1 backColWhite"></div>
@@ -32,8 +32,8 @@ require_once '../src/init.php';
 				<img src="images/Cranes2.svg">
 			</div>
 	    	<h1 class="colWhite">Over Ons</h1>
-	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Daar waar de badkamer vroeger niet meer dan een wasruimte was, is het nu dé ruimte in huis om in te ontspannen en uitgebreid aandacht te geven aan persoonlijke verzorging. Herkent u dit? Wilt u uw badkamer verbouwen om nog meer comfort toe te passen, zodat u ongestoord tot rust kunt komen? Bij het badkamer verbouwen en badkamer ontwerpen houdt Badinstallaties rekening met design, maar functionaliteit en de zekerheid van een vakkundige badkamer installatie en afwerking zijn daarbij even zo belangrijk.</h3>
-	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Badinstallaties heeft al meer dan 12 jaar ervaring met het ontwerpen, verbouwen, en volledige nieuwbouw van badkamers en sanitaire ruimtes.</h3>
+	    	<h3 class="colWhite text-center h3Main mx-auto py-3">Daar waar de badkamer vroeger niet meer dan een wasruimte was, is het nu dé ruimte in huis om in te ontspannen en uitgebreid aandacht te geven aan persoonlijke verzorging. Herkent u dit? Wilt u uw badkamer verbouwen om nog meer comfort toe te passen, zodat u ongestoord tot rust kunt komen? Bij het badkamer verbouwen en badkamer ontwerpen houdt 123Badinstallaties rekening met design, maar functionaliteit en de zekerheid van een vakkundige badkamer installatie en afwerking zijn daarbij even zo belangrijk.</h3>
+	    	<h3 class="colWhite text-center h3Main mx-auto py-3">123Badinstallaties heeft al meer dan 12 jaar ervaring met het ontwerpen, verbouwen, en volledige nieuwbouw van badkamers en sanitaire ruimtes.</h3>
 	    </div>
 	</div>
 	<div class="backColWhite">
@@ -111,7 +111,7 @@ require_once '../src/init.php';
 	      					<h2 class="colBlack namesEleCarusel">Anna and Bryan</h2>
 	      					<div class="imgDivCarousel"></div>
 	      				</div>
-	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor.</mark></h3>
+	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van 123Badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van 123Badinstallaties regelt alles voor.</mark></h3>
 	      			</div>
 	      		</div>
 	    	</div>
@@ -125,7 +125,7 @@ require_once '../src/init.php';
 	      					<h2 class="colBlack namesEleCarusel">Anna and Bryan</h2>
 	      					<div class="imgDivCarousel"></div>
 	      				</div>
-	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor.</mark></h3>
+	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van 123Badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van 123Badinstallaties regelt alles voor.</mark></h3>
 	      			</div>
 	      		</div>
 	    	</div>
@@ -139,7 +139,7 @@ require_once '../src/init.php';
 	      					<h2 class="colBlack namesEleCarusel">Anna and Bryan</h2>
 	      					<div class="imgDivCarousel"></div>
 	      				</div>
-	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor.</mark></h3>
+	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van 123Badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van 123Badinstallaties regelt alles voor.</mark></h3>
 	      			</div>
 	      		</div>
 	    	</div>
@@ -153,7 +153,7 @@ require_once '../src/init.php';
 	      					<h2 class="colBlack namesEleCarusel">Anna and Bryan</h2>
 	      					<div class="imgDivCarousel"></div>
 	      				</div>
-	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor.</mark></h3>
+	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van 123Badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van 123Badinstallaties regelt alles voor.</mark></h3>
 	      			</div>
 	      		</div>
 	    	</div>
@@ -167,7 +167,7 @@ require_once '../src/init.php';
 	      					<h2 class="colBlack namesEleCarusel">Anna and Bryan</h2>
 	      					<div class="imgDivCarousel"></div>
 	      				</div>
-	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van badinstallaties regelt alles voor.</mark></h3>
+	      				<h3 class="text-left mx-5 textInSlider">Plannen voor badkamer renovatie? De specialisten van 123Badinstallaties regelen alles voor u. <mark class="colBlack backColTransparent markCarusel1">Door creatieve badkamer ideeën en slimme oplossingen, realiseren we voor iedere badkamer een complete renovatie. Van ontwerp tot montage Uw volledige badkamer renoveren? Dat kan! Maar ook met kleine aanpassingen krijgt uw badkamer een volledig nieuwe look. Het team van 123Badinstallaties regelt alles voor.</mark></h3>
 	      			</div>
 	      		</div>
 	    	</div>
@@ -196,7 +196,7 @@ require_once '../src/init.php';
 	</div>	
 	<div class="backColWhite boxShadow">
 		<h1 class="colBlack text-center pt-4">Merken</h1>
-		<h3 class="colBlack mx-auto h3Main text-center mb-5">Onderstaande merken worden door Badinstallaties veelal gebruikt. De getoonde merken staan voor kwaliteit en duurzaam en gaan uw leven lang mee. Staat het door u gevonden merk er niet tussen, vrees niet. Wij kunnen u altijd verder helpen.</h3>
+		<h3 class="colBlack mx-auto h3Main text-center mb-5">Onderstaande merken worden door 123Badinstallaties veelal gebruikt. De getoonde merken staan voor kwaliteit en duurzaam en gaan uw leven lang mee. Staat het door u gevonden merk er niet tussen, vrees niet. Wij kunnen u altijd verder helpen.</h3>
 		<div class="vertically-align-mid mx-auto justify-content-between mainBrandLogos">
 			<div class="overflow-hidden imgBrandLogos borderCream vertically-align-mid">
 				<img class="zoomOnHover" src="images/1.jpg">

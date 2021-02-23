@@ -50,7 +50,7 @@ Bedenk ook: moet de badkamer compleet vernieuwd of gerenoveerd worden? Kunnen we
 		<div class="vertically-align-mid allStepsMain step4Num1">
 			<div class="ml-auto mainText">
 				<h1 class="text-right mr-5 mb-4 colWhite"><mark class="colWhite latoBold colBAndW">4</mark>: Installatie</h1>
-				<h3 class="text-right mx-5 colWhite">Bij badinstallaties wordt u persoonlijk begeleid tijdens het gehele traject. Er wordt geluisterd naar uw behoefte. Van de juiste materiaal- en apparatenkeus tot het vakkundig plaatsen van uw nieuwe keuken/badkamer. En dat is precies de stap waar we nu aan toe zijn. Geen zorgen. We laten u niet maanden in een puinhoop leven. U krijgt van ons een duidelijk stappenplan. En daar houden we ons aan. Bovendien vertrekken we pas als alles werkt. Beloofd.</h3>
+				<h3 class="text-right mx-5 colWhite">Bij 123Badinstallaties wordt u persoonlijk begeleid tijdens het gehele traject. Er wordt geluisterd naar uw behoefte. Van de juiste materiaal- en apparatenkeus tot het vakkundig plaatsen van uw nieuwe keuken/badkamer. En dat is precies de stap waar we nu aan toe zijn. Geen zorgen. We laten u niet maanden in een puinhoop leven. U krijgt van ons een duidelijk stappenplan. En daar houden we ons aan. Bovendien vertrekken we pas als alles werkt. Beloofd.</h3>
 			</div>
 			<div class="overflow-hidden borderCream vertically-align-mid step4FirstImage flex-shrink-0 mainImg">
 				<img class="zoomOnHover" src="images/16.png">
@@ -61,7 +61,7 @@ Bedenk ook: moet de badkamer compleet vernieuwd of gerenoveerd worden? Kunnen we
 		<div class="vertically-align-mid allStepsMain step4Num2">
 			<div class="ml-auto mainText">
 				<h1 class="text-right mr-5 mb-4 colWhite"><mark class="colWhite latoBold colBAndW">4</mark>: Installatie</h1>
-				<h3 class="text-right mx-5 colWhite">Bij badinstallaties wordt u persoonlijk begeleid tijdens het gehele traject. Er wordt geluisterd naar uw behoefte. Van de juiste materiaal- en apparatenkeus tot het vakkundig plaatsen van uw nieuwe keuken/badkamer. En dat is precies de stap waar we nu aan toe zijn. Geen zorgen. We laten u niet maanden in een puinhoop leven. U krijgt van ons een duidelijk stappenplan. En daar houden we ons aan. Bovendien vertrekken we pas als alles werkt. Beloofd.</h3>
+				<h3 class="text-right mx-5 colWhite">Bij 123Badinstallaties wordt u persoonlijk begeleid tijdens het gehele traject. Er wordt geluisterd naar uw behoefte. Van de juiste materiaal- en apparatenkeus tot het vakkundig plaatsen van uw nieuwe keuken/badkamer. En dat is precies de stap waar we nu aan toe zijn. Geen zorgen. We laten u niet maanden in een puinhoop leven. U krijgt van ons een duidelijk stappenplan. En daar houden we ons aan. Bovendien vertrekken we pas als alles werkt. Beloofd.</h3>
 			</div>
 			<div class="overflow-hidden borderCream vertically-align-mid step4FirstImage flex-shrink-0 mainImg">
 				<img class="zoomOnHover" src="images/23.png">

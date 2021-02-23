@@ -24,7 +24,7 @@ require_once '../src/init.php';
 		<h1 class="text-center mb-5">Massagedouche</h1>
 		<h3 class="mb-5 text-center h3Main mx-auto">Verschillende stevige waterstralen uit een hoofddouche en eventueel zijdouches zorgen ervoor dat je heerlijk kunt ontspannen.</h3>
 		<h1 class="text-center mb-5">Welke douche voor jouw wellness?</h1>
-		<h3 class="mb-5 text-center h3Main mx-auto">Badinstallaties verkoopt speciale douches van diverse merken, zoals Ben, Cleopatra en Sun shower. Wordt het voor jou een Sun shower, een stoomdouche of toch een massagedouche? Met de volgende aandachtspunten helpen we je kiezen.</h3>
+		<h3 class="mb-5 text-center h3Main mx-auto">123Badinstallaties verkoopt speciale douches van diverse merken, zoals Ben, Cleopatra en Sun shower. Wordt het voor jou een Sun shower, een stoomdouche of toch een massagedouche? Met de volgende aandachtspunten helpen we je kiezen.</h3>
 		<div class="showersSection4 backgroundPar">
 			<div class="backColBlackOpacity w-100 h-100">
 				<div class="midIcons mx-auto pt-5">

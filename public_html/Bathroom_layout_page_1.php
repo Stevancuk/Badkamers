@@ -24,7 +24,7 @@ require_once '../src/init.php';
 					<img src="images/Bathroomslayoutpages(2)icon1.svg">
 				</div>
 		    	<h1 class="colWhite">Extra kleine badkamer</h1>
-		    	<h3 class="colWhite text-center h3Main mx-auto py-3">Veel mensen dromen van een badkamer en suite, vooral aan de eigen slaapkamer of logeerkamer vast. Met een paar aanpassingen in de waterleiding is vaak mogelijk om een kleine badkamer aan te leggen. Deze extra badkamer kan bestaan uit een wat compacter zitbad met douche, een toilet en een wastafel. Of misschien verkies je een inloopdouche voor een ligbad. Wat je ook voor ogen hebt, samen met de badkamerspecialisten van badinstallaties kun je ook in een kleine ruimte een badkamer laten bouwen.</h3>
+		    	<h3 class="colWhite text-center h3Main mx-auto py-3">Veel mensen dromen van een badkamer en suite, vooral aan de eigen slaapkamer of logeerkamer vast. Met een paar aanpassingen in de waterleiding is vaak mogelijk om een kleine badkamer aan te leggen. Deze extra badkamer kan bestaan uit een wat compacter zitbad met douche, een toilet en een wastafel. Of misschien verkies je een inloopdouche voor een ligbad. Wat je ook voor ogen hebt, samen met de badkamerspecialisten van 123badinstallaties kun je ook in een kleine ruimte een badkamer laten bouwen.</h3>
 		    </div>
 		</div>
 		<h1 class="text-center my-5">De douchevloer</h1>

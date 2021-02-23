@@ -41,7 +41,7 @@ require_once '../src/init.php';
 			</div>
 			<div class="rightTextMidsectionInstallation">
 				<h1 class="text-left mt-1">Bathroom and toilet</h1>
-				<h3 class="text-left mb-3">De badkamer of het toilet renoveren? Badinstallaties verzorgt voor u het totaalpakket, waaronder:</h3>
+				<h3 class="text-left mb-3">De badkamer of het toilet renoveren? 123Badinstallaties verzorgt voor u het totaalpakket, waaronder:</h3>
 				<div class="plusMain">
 					<div class="vertically-align-mid justify-content-start">
 						<div class="plusIcon mr-2 vertically-align-mid">
