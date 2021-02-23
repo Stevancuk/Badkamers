@@ -1636,6 +1636,10 @@ div.caruselInnerMain {
 	.inspirationSection1 {
 		height: 1500px;
 	}
+	.videoLanding video,
+	.videoInstal video {
+		width: 90%!important;
+	}
 }
 @media (max-width: 580px) {
 	.headerText {

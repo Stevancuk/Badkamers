@@ -18,7 +18,7 @@
 				</div>
 			</div>
 			<div class="ml-auto rightFooter">
-				<h3 class="colWhite text-right mt-5 pt-5"><mark class="latoBold colWhite">2020 - 123</mark> BADKAMERS</h3>
+				<h3 class="colWhite text-right mt-5 pt-5"><mark class="latoBold colWhite">2020 - 123</mark> BADINSTALLATIES</h3>
 			</div>
 		</div>
 	</footer>
