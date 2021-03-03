@@ -9,13 +9,18 @@ require_once '../src/init.php';
 <body>
 
 	<?php getNavigationBar(); ?>
-	<div class="videoInstal py-5">
+	<div class="videoInstal1 py-5">
 		<video controls="" class="d-flex mx-auto w-75">
 			<source src="videos/videoInstallation.mp4" type="">
 		</video>	
 	</div>
 	<div class="backGroundImages vertically-align-mid">
 		<img src="images/Installationpageheader.png">
+		<div class="videoInstal">
+			<video controls="" class="d-fle w-100">
+				<source src="videos/videoInstallation.mp4" type="">
+			</video>	
+		</div>
 	</div>
 	<div class="backColWhite boxShadow mb-5 boxShadowMargin">	
 		<div class="midIcons mx-auto mt-3">

@@ -974,6 +974,27 @@ div.caruselInnerMain {
   	background-size: cover;
   	background-color: rgb(0,0,0,.3);
 }
+.videoLanding1 {
+	display: none;
+}
+.videoLanding {
+	position: absolute;
+	left: 100px;
+	top: 420px;
+	width: 600px;
+}
+.videoInstal1 {
+	display: none;
+}
+.videoInstal {
+	position: absolute;
+	left: 50%;
+	margin-left:-350px; 
+	top: 30px;
+	width: 700px;
+}
+
+
 @media (max-width: 1900px) {
 	.imageOptionsMain  {
 		width: 400px;
@@ -1014,7 +1035,20 @@ div.caruselInnerMain {
 }
 
 @media (max-width: 1656px) {
+	.videoInstal {
+	margin-left:-300px; 
+	top: 30px;
+	width: 600px;
+	}
 	.headerText {
+	top: 44%;
+	width: 500px;
+	}
+	.headerText h3 {
+	font-size: 18px;	
+	}
+	.videoLanding {
+	left: 300px;
 	top: 44%;
 	}		
 .relDivForWhiteLines {
@@ -1063,6 +1097,9 @@ div.caruselInnerMain {
 }
 
 @media (max-width: 1550px) {
+	.videoLanding {
+	left: 200px;
+	}		
 	#navbarNavAltMarkup a {
 	font-size: 18px;
 	}
@@ -1089,6 +1126,13 @@ div.caruselInnerMain {
 	}
 }
 @media (max-width: 1470px) {
+	.videoInstal {
+	margin-left:-250px; 
+	width: 500px;
+	}
+	.videoLanding {
+	left: 140px;
+	}	
 	.step4Num1 {
 		display: none;
 	}
@@ -1134,6 +1178,9 @@ div.caruselInnerMain {
 	}
 }
 @media (max-width: 1350px) {
+	.videoLanding {
+	left: 80px;
+	}
 	.navbar .logoBradA {
     width: 200px;
     margin-left: 2rem!important;
@@ -1181,6 +1228,12 @@ div.caruselInnerMain {
 		height: 540px;
 	}
 }
+@media (max-width: 1340px) {
+	.videoLanding {
+	left: 100px;
+	width: 460px;	
+	}
+}
 @media (max-width: 1199px) {
 	.bathroomsSection2  {
 		height: 520px;
@@ -1213,6 +1266,14 @@ div.caruselInnerMain {
 	}
 }
 @media (max-width: 1199px) {
+	.videoInstal {
+	margin-left:-200px; 
+	width: 400px;
+	}
+	.videoLanding {
+	left: 60px;
+	width: 390px;	
+	}
 	.navbar .logoBradA {
     width: 300px;
     margin-left: 2rem!important;
@@ -1289,6 +1350,18 @@ div.caruselInnerMain {
 	}
 }
 @media (max-width: 1040px) {
+	.videoInstal {
+	display: none;
+	}
+	.videoInstal1 {
+	display:block;
+	}
+	.videoLanding {
+	display: none;	
+	}
+	.videoLanding1 {
+		display: block;
+	}
 	.mark2 {
 		display: none;
 	}
