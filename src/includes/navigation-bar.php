@@ -8,7 +8,7 @@
 
 		<ul class="navbar-nav ml-auto mr-4 vertically-align-mid">
 			<li class="nav-item active"> <a class="nav-item nav-link colWhite py-4" href="landing.php">Home</a> </li>
-			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="Inspiration_page_1.php">Installatie</a></li>
+			<li class="nav-item"><a class="nav-item nav-link colWhite py-4" href="installation.php">Installatie</a></li>
 			<li class="nav-item dropdown">
 				<a class="nav-item nav-link colWhite py-4 dropdown-toggle" id="nav_drop_down_1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Badkamer inspiratie</a>	
 				<ul class="dropdown-menu backColBlack" aria-labelledby="nav_drop_down_1">
